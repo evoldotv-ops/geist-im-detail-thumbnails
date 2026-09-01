@@ -1,610 +1,610 @@
 1
-00:00:10.133 --> 00:00:15.133
+00:00:10,133 --> 00:00:15,133
 Ein Gericht, das jemandem bescheinigt, er
 sei einfach ein Forscher. Das wäre stark.
 
 2
-00:00:15.533 --> 00:00:20.533
+00:00:15,533 --> 00:00:20,533
 Wir haben den Beschluss gelesen. Den von
 Münster, und den davor aus Gelsenkirchen.
 
 3
-00:00:20.933 --> 00:00:24.133
+00:00:20,933 --> 00:00:24,133
 Der Satz steht dort nicht. In keinem der
 beiden.
 
 4
-00:00:24.533 --> 00:00:28.773
+00:00:24,533 --> 00:00:28,773
 Was dort steht, ist etwas anderes. Und es
 ist trotzdem ein Sieg für ihn.
 
 5
-00:00:29.173 --> 00:00:32.973
+00:00:29,173 --> 00:00:32,973
 Fangen wir mit dem an, was stimmt. Denn
 das ist der grössere Teil.
 
 6
-00:00:33.373 --> 00:00:37.015
+00:00:33,373 --> 00:00:37,015
 Ganser hat vor Gericht gewonnen. Nicht
 knapp, nicht einmal, sondern zweimal. Und
 
 7
-00:00:37.065 --> 00:00:40.706
+00:00:37,065 --> 00:00:40,706
 jedes Mal in zwei Instanzen.
 
 8
-00:00:41.106 --> 00:00:45.581
+00:00:41,106 --> 00:00:45,581
 Dortmund, 2023. Die Stadt wollte die
 Westfalenhalle nicht hergeben. Das
 
 9
-00:00:45.631 --> 00:00:50.106
+00:00:45,631 --> 00:00:50,106
 Verwaltungsgericht Gelsenkirchen gab dem
 Eilantrag statt.
 
 10
-00:00:50.506 --> 00:00:53.798
+00:00:50,506 --> 00:00:53,798
 Die Stadt legte Beschwerde ein. Das
 Oberverwaltungsgericht in Münster wies sie
 
 11
-00:00:53.848 --> 00:00:57.139
+00:00:53,848 --> 00:00:57,139
 zurück. Der Vortrag fand statt.
 
 12
-00:00:57.539 --> 00:01:01.697
+00:00:57,539 --> 00:01:01,697
 Moers, 2025. Wieder eine Kündigung, wieder
 eine Klage. Das Verwaltungsgericht
 
 13
-00:01:01.747 --> 00:01:05.906
+00:01:01,747 --> 00:01:05,906
 Düsseldorf entschied für den Veranstalter.
 
 14
-00:01:06.306 --> 00:01:10.172
+00:01:06,306 --> 00:01:10,172
 Und wieder ging es eine Instanz höher, und
 wieder verlor die Halle.
 
 15
-00:01:10.572 --> 00:01:14.187
+00:01:10,572 --> 00:01:14,187
 Wer also behauptet, diese Absagen seien
 rechtlich in Ordnung gewesen, liegt
 
 16
-00:01:14.237 --> 00:01:17.852
+00:01:14,237 --> 00:01:17,852
 falsch. Die Gerichte haben sie kassiert.
 Beide Male.
 
 17
-00:01:18.252 --> 00:01:20.819
+00:01:18,252 --> 00:01:20,819
 Das ist der Befund, und er gehört ihm.
 
 18
-00:01:21.219 --> 00:01:24.579
+00:01:21,219 --> 00:01:24,579
 Sein Satz und der Beschluss gehen an einer
 Stelle auseinander.
 
 19
-00:01:24.979 --> 00:01:27.887
+00:01:24,979 --> 00:01:27,887
 Er sagt, das Gericht habe festgestellt,
 gegen ihn liege nichts vor. Er sei einfach
 
 20
-00:01:27.937 --> 00:01:30.846
+00:01:27,937 --> 00:01:30,846
 ein Forscher.
 
 21
-00:01:31.246 --> 00:01:33.646
+00:01:31,246 --> 00:01:33,646
 Im Beschluss aus Münster steht dieser
 Satz:
 
 22
-00:01:34.046 --> 00:01:37.181
+00:01:34,046 --> 00:01:37,181
 Dass eine Gefahr strafbarer Äusserungen
 des Vortragenden besteht, ist dem
 
 23
-00:01:37.231 --> 00:01:40.366
+00:01:37,231 --> 00:01:40,366
 Vorbringen der Stadt nicht zu entnehmen.
 
 24
-00:01:40.766 --> 00:01:43.557
+00:01:40,766 --> 00:01:43,557
 Lies den Satz noch einmal langsam. Er sagt
 nichts über Ganser. Er sagt etwas über die
 
 25
-00:01:43.607 --> 00:01:46.399
+00:01:43,607 --> 00:01:46,399
 Stadt.
 
 26
-00:01:46.799 --> 00:01:49.957
+00:01:46,799 --> 00:01:49,957
 Die Stadt hat im Verfahren nicht
 dargelegt, dass bei dieser Veranstaltung
 
 27
-00:01:50.007 --> 00:01:53.165
+00:01:50,007 --> 00:01:53,165
 Straftaten drohen. Das ist alles.
 
 28
-00:01:53.565 --> 00:01:57.765
+00:01:53,565 --> 00:01:57,765
 Entschieden wurde über die Halle. Nicht
 über den Mann, der darin sprechen wollte.
 
 29
-00:01:58.165 --> 00:02:02.110
+00:01:58,165 --> 00:02:02,110
 Tragend war etwas ganz Nüchternes. Die
 Halle ist gewidmet für Veranstaltungen
 
 30
-00:02:02.160 --> 00:02:06.104
+00:02:02,160 --> 00:02:06,104
 aller Art. Es gab einen gültigen
 Mietvertrag. Und die Stadt hatte dieselbe
 
 31
-00:02:06.154 --> 00:02:10.098
+00:02:06,154 --> 00:02:10,098
 Halle schon einmal für denselben Redner
 freigegeben.
 
 32
-00:02:10.498 --> 00:02:13.357
+00:02:10,498 --> 00:02:13,357
 Ein Vertrag, eine Widmung, ein
 Präzedenzfall im eigenen Haus. Deshalb hat
 
 33
-00:02:13.407 --> 00:02:16.265
+00:02:13,407 --> 00:02:16,265
 er gewonnen.
 
 34
-00:02:16.665 --> 00:02:19.840
+00:02:16,665 --> 00:02:19,840
 Die Vorwürfe, mit denen die Stadt ihre
 Weigerung begründet hatte, haben die
 
 35
-00:02:19.890 --> 00:02:23.065
+00:02:19,890 --> 00:02:23,065
 Gerichte weder bestätigt noch ausgeräumt.
 
 36
-00:02:23.465 --> 00:02:26.340
+00:02:23,465 --> 00:02:26,340
 Sie haben sie offengelassen. Weil es für
 die Frage, ob die Halle geöffnet werden
 
 37
-00:02:26.390 --> 00:02:29.265
+00:02:26,390 --> 00:02:29,265
 muss, nicht darauf ankam.
 
 38
-00:02:29.665 --> 00:02:32.900
+00:02:29,665 --> 00:02:32,900
 Das ist ein wichtiger Unterschied. Ein
 Gericht, das dich gewinnen lässt, ist
 
 39
-00:02:32.950 --> 00:02:36.185
+00:02:32,950 --> 00:02:36,185
 nicht dasselbe wie ein Gericht, das dich
 freispricht.
 
 40
-00:02:36.585 --> 00:02:40.252
+00:02:36,585 --> 00:02:40,252
 Für den ersten Teil hat er die Belege. Für
 den zweiten nicht.
 
 41
-00:02:40.652 --> 00:02:44.445
+00:02:40,652 --> 00:02:44,445
 Wir bewerten nicht, wir ordnen ein. Wir
 schauen uns an, was gesagt wurde, und
 
 42
-00:02:44.495 --> 00:02:48.288
+00:02:44,495 --> 00:02:48,288
 halten es gegen die Quelle. Was stimmt,
 sagen wir. Was nicht stimmt, auch. Das
 
 43
-00:02:48.338 --> 00:02:52.132
+00:02:48,338 --> 00:02:52,132
 Urteil bleibt bei dir.
 
 44
-00:02:52.532 --> 00:02:56.887
+00:02:52,532 --> 00:02:56,887
 Wenn du magst, dass jemand die Beschlüsse
 wirklich aufmacht, statt sie nur zu
 
 45
-00:02:56.937 --> 00:03:01.292
+00:02:56,937 --> 00:03:01,292
 zitieren, dann abonnier den Kanal. Das
 kostet dich nichts und hilft uns sehr.
 
 46
-00:03:01.692 --> 00:03:05.050
+00:03:01,692 --> 00:03:05,050
 Wir haben in diesem Gespräch neun Aussagen
 geprüft. Die restlichen kommen jetzt, und
 
 47
-00:03:05.100 --> 00:03:08.458
+00:03:05,100 --> 00:03:08,458
 die meisten davon treffen zu.
 
 48
-00:03:20.491 --> 00:03:22.611
+00:03:20,491 --> 00:03:22,611
 Das lässt sich auf den Tag prüfen.
 
 49
-00:03:23.011 --> 00:03:27.006
+00:03:23,011 --> 00:03:27,006
 Der Vortrag „Ist Weltfrieden möglich" lief
 am zwanzigsten September 2025 im Sportpark
 
 50
-00:03:27.056 --> 00:03:31.051
+00:03:27,056 --> 00:03:31,051
 Rheinkamp in Moers.
 
 51
-00:03:31.451 --> 00:03:34.560
+00:03:31,451 --> 00:03:34,560
 Das Gespräch mit Ben wurde am
 dreiundzwanzigsten September aufgenommen.
 
 52
-00:03:34.610 --> 00:03:37.718
+00:03:34,610 --> 00:03:37,718
 Also tatsächlich drei Tage später.
 
 53
-00:03:38.118 --> 00:03:41.751
+00:03:38,118 --> 00:03:41,751
 Der Titel stimmt, der Ort stimmt, die drei
 Tage stimmen.
 
 54
-00:03:42.151 --> 00:03:45.459
+00:03:42,151 --> 00:03:45,459
 Gekündigt hatte den Mietvertrag ein
 städtisches Unternehmen, im Frühjahr
 
 55
-00:03:45.509 --> 00:03:48.818
+00:03:45,509 --> 00:03:48,818
 desselben Jahres. Auch das trifft zu.
 
 56
-00:03:49.218 --> 00:03:53.613
+00:03:49,218 --> 00:03:53,613
 Eine Kleinigkeit stimmt nicht ganz. Es war
 keine Stadthalle, sondern eine kommunale
 
 57
-00:03:53.663 --> 00:03:58.058
+00:03:53,663 --> 00:03:58,058
 Mehrzweckhalle im Sportpark. Das ist
 Umgangssprache, kein Befund.
 
 58
-00:04:06.528 --> 00:04:09.488
+00:04:06,528 --> 00:04:09,488
 Hier kommen wir nicht weiter, und das
 sagen wir offen.
 
 59
-00:04:09.888 --> 00:04:13.746
+00:04:09,888 --> 00:04:13,746
 In den öffentlich zugänglichen Unterlagen
 zum Moerser Verfahren wird kein Politiker
 
 60
-00:04:13.796 --> 00:04:17.654
+00:04:13,796 --> 00:04:17,654
 genannt. Weder mit Namen noch mit Partei.
 
 61
-00:04:18.054 --> 00:04:22.054
+00:04:18,054 --> 00:04:22,054
 Die Kündigung wird durchgehend dem
 städtischen Unternehmen zugeschrieben.
 
 62
-00:04:22.454 --> 00:04:25.396
+00:04:22,454 --> 00:04:25,396
 Das ist kein Gegenbeleg.
 Kommunalpolitischer Druck hinterlässt oft
 
 63
-00:04:25.446 --> 00:04:28.387
+00:04:25,446 --> 00:04:28,387
 keine Spur, die man zitieren kann.
 
 64
-00:04:28.787 --> 00:04:33.620
+00:04:28,787 --> 00:04:33,620
 Der Befund lautet deshalb nicht falsch. Er
 lautet: nicht überprüfbar.
 
 65
-00:04:34.020 --> 00:04:38.587
+00:04:34,020 --> 00:04:38,587
 Auf diesem Unterschied bestehen wir. Nicht
 belegbar heisst nicht widerlegt.
 
 66
-00:04:47.587 --> 00:04:51.107
+00:04:47,587 --> 00:04:51,107
 Zwei Aussagen in einem Satz. Beide treffen
 zu.
 
 67
-00:04:51.507 --> 00:04:55.482
+00:04:51,507 --> 00:04:55,482
 Der Mietvertrag stammt vom siebzehnten
 November 2022, die Veranstaltung war für
 
 68
-00:04:55.532 --> 00:04:59.507
+00:04:55,532 --> 00:04:59,507
 den siebenundzwanzigsten März geplant.
 
 69
-00:04:59.907 --> 00:05:02.699
+00:04:59,907 --> 00:05:02,699
 Die Stadt verweigerte die Halle. Und die
 Gerichte gaben dem Veranstalter recht, in
 
 70
-00:05:02.749 --> 00:05:05.540
+00:05:02,749 --> 00:05:05,540
 beiden Instanzen.
 
 71
-00:05:05.940 --> 00:05:08.948
+00:05:05,940 --> 00:05:08,948
 Und ja, ein Verwaltungsgerichtsverfahren
 um einen Saal, das er verloren hätte,
 
 72
-00:05:08.998 --> 00:05:12.007
+00:05:08,998 --> 00:05:12,007
 haben wir nicht gefunden.
 
 73
-00:05:12.407 --> 00:05:14.927
+00:05:12,407 --> 00:05:14,927
 Vor den Verwaltungsgerichten stimmt sein
 „immer".
 
 74
-00:05:15.327 --> 00:05:19.127
+00:05:15,327 --> 00:05:19,127
 Ausserhalb davon nicht. Und diese
 Gegenprobe gehört dazu.
 
 75
-00:05:19.527 --> 00:05:23.585
+00:05:19,527 --> 00:05:23,585
 Der Schweizer Presserat wies 2018 eine
 Beschwerde in allen Punkten ab. Eine
 
 76
-00:05:23.635 --> 00:05:27.693
+00:05:23,635 --> 00:05:27,693
 Zeitung durfte ihn
 Verschwörungstheoretiker nennen.
 
 77
-00:05:28.093 --> 00:05:31.708
+00:05:28,093 --> 00:05:31,708
 Aber lies auch hier genau. Der Presserat
 schrieb dazu, es sei nicht seine Aufgabe
 
 78
-00:05:31.758 --> 00:05:35.373
+00:05:31,758 --> 00:05:35,373
 zu beurteilen, ob jemand das ist.
 
 79
-00:05:35.773 --> 00:05:39.940
+00:05:35,773 --> 00:05:39,940
 Er hat nur geprüft, ob die Zeitung den
 Journalistenkodex eingehalten hat.
 
 80
-00:05:40.340 --> 00:05:43.132
+00:05:40,340 --> 00:05:43,132
 Und der Presserat ist kein Gericht. Er ist
 das Selbstregulierungsorgan der Schweizer
 
 81
-00:05:43.182 --> 00:05:45.973
+00:05:43,182 --> 00:05:45,973
 Medienbranche.
 
 82
-00:05:46.373 --> 00:05:49.446
+00:05:46,373 --> 00:05:49,446
 Damit steht dasselbe Muster zweimal da.
 Die Stellen, die ihm recht gaben, und die
 
 83
-00:05:49.496 --> 00:05:52.570
+00:05:49,496 --> 00:05:52,570
 Stelle, die gegen ihn entschied, haben
 alle ausdrücklich offengelassen, wer er
 
 84
-00:05:52.620 --> 00:05:55.693
+00:05:52,620 --> 00:05:55,693
 ist.
 
 85
-00:05:56.093 --> 00:05:59.626
+00:05:56,093 --> 00:05:59,626
 Bescheinigt hat es ihm keiner. In keine
 der beiden Richtungen.
 
 86
-00:06:11.126 --> 00:06:14.966
+00:06:11,126 --> 00:06:14,966
 Das klingt beim Hören wie eine Zuspitzung.
 Ist es aber nicht.
 
 87
-00:06:15.366 --> 00:06:19.866
+00:06:15,366 --> 00:06:19,866
 Der Bürgermeister von Innsbruck gehört den
 Grünen an. Das trifft zu.
 
 88
-00:06:20.266 --> 00:06:24.574
+00:06:20,266 --> 00:06:24,574
 Und er hat genau so argumentiert. Er könne
 nicht zulassen, dass in einem mit
 
 89
-00:06:24.624 --> 00:06:28.932
+00:06:24,624 --> 00:06:28,932
 öffentlichen Geldern finanzierten Haus
 diese Thesen verbreitet würden.
 
 90
-00:06:29.332 --> 00:06:32.287
+00:06:29,332 --> 00:06:32,287
 Zumal das Kongresszentrum in der Pandemie
 eine wichtige Drehscheibe für Impfungen
 
 91
-00:06:32.337 --> 00:06:35.292
+00:06:32,337 --> 00:06:35,292
 und Tests gewesen sei.
 
 92
-00:06:35.692 --> 00:06:39.825
+00:06:35,692 --> 00:06:39,825
 Ganser gibt die Begründung korrekt wieder.
 Auch den Teil mit dem Impfen.
 
 93
-00:06:40.225 --> 00:06:42.745
+00:06:40,225 --> 00:06:42,745
 Bei der naechsten Zahl mussten wir
 aufpassen.
 
 94
-00:06:49.512 --> 00:06:53.352
+00:06:49,512 --> 00:06:53,352
 Die Zahl drei Tage stammt nicht von
 Ganser. Sie stammt von Ben.
 
 95
-00:06:53.752 --> 00:06:57.567
+00:06:53,752 --> 00:06:57,567
 Ben malt ein Szenario aus, Ganser
 bestätigt es mit einem Halbsatz. Drei
 
 96
-00:06:57.617 --> 00:07:01.432
+00:06:57,617 --> 00:07:01,432
 Kamerabilder hintereinander zeigen den
 Gastgeber.
 
 97
-00:07:01.832 --> 00:07:05.140
+00:07:01,832 --> 00:07:05,140
 Wir schreiben die Zahl deshalb nicht
 Ganser zu. Wer das tut, unterschiebt einem
 
 98
-00:07:05.190 --> 00:07:08.498
+00:07:05,190 --> 00:07:08,498
 Gast den Satz des Moderators.
 
 99
-00:07:08.898 --> 00:07:12.290
+00:07:08,898 --> 00:07:12,290
 Geprüft haben wir sie trotzdem. Die Absage
 war am sechsten Januar öffentlich, der
 
 100
-00:07:12.340 --> 00:07:15.731
+00:07:12,340 --> 00:07:15,731
 Termin war der sechsundzwanzigste.
 
 101
-00:07:16.131 --> 00:07:19.171
+00:07:16,131 --> 00:07:19,171
 Das sind rund zwanzig Tage, nicht drei.
 
 102
-00:07:19.571 --> 00:07:22.963
+00:07:19,571 --> 00:07:22,963
 Ganser selbst schränkt an dieser Stelle
 übrigens ein. Er sagt, er wisse nicht mehr
 
 103
-00:07:23.013 --> 00:07:26.404
+00:07:23,013 --> 00:07:26,404
 genau, wie kurzfristig die Kündigung kam.
 
 104
-00:07:26.804 --> 00:07:31.229
+00:07:26,804 --> 00:07:31,229
 Und sein eigentliches Argument bleibt
 stehen. Er sagt, der Rechtsweg brauche gut
 
 105
-00:07:31.279 --> 00:07:35.704
+00:07:31,279 --> 00:07:35,704
 zwei Monate. Auch zwanzig Tage hätten
 dafür nicht gereicht.
 
 106
-00:07:36.104 --> 00:07:39.504
+00:07:36,104 --> 00:07:39,504
 Die Zahl stimmt nicht. Die
 Schlussfolgerung trägt trotzdem.
 
 107
-00:07:44.504 --> 00:07:48.279
+00:07:44,504 --> 00:07:48,279
 Fast. Auf der Ebene, über die er gerade
 spricht, gibt es in Deutschland fünfzehn
 
 108
-00:07:48.329 --> 00:07:52.104
+00:07:48,329 --> 00:07:52,104
 Oberverwaltungsgerichte für sechzehn
 Bundesländer.
 
 109
-00:07:52.504 --> 00:07:56.544
+00:07:52,504 --> 00:07:56,544
 Berlin und Brandenburg teilen sich seit
 zweitausendfünf eines.
 
 110
-00:07:56.944 --> 00:08:00.886
+00:07:56,944 --> 00:08:00,886
 In der ersten Instanz stimmt es auch
 nicht. Dort gibt es einundfünfzig
 
 111
-00:08:00.936 --> 00:08:04.877
+00:08:00,936 --> 00:08:04,877
 Verwaltungsgerichte. Ein Land hat also
 mehrere, nicht eines.
 
 112
-00:08:05.277 --> 00:08:08.286
+00:08:05,277 --> 00:08:08,286
 Das ändert an seiner Geschichte nichts. Es
 steht hier, weil wir alles prüfen, nicht
 
 113
-00:08:08.336 --> 00:08:11.344
+00:08:08,336 --> 00:08:11,344
 nur das Auffällige.
 
 114
-00:08:11.744 --> 00:08:16.744
+00:08:11,744 --> 00:08:16,744
 Neun Aussagen. Fünf treffen zu, eine halb,
 zwei zum Teil, eine nicht.
 
 115
-00:08:17.144 --> 00:08:18.711
+00:08:17,144 --> 00:08:18,711
 Das ist eine gute Quote.
 
 116
-00:08:19.111 --> 00:08:22.502
+00:08:19,111 --> 00:08:22,502
 Bleibt der eine Satz, auf dem alles ruht.
 Dass ein Gericht gesagt habe, gegen ihn
 
 117
-00:08:22.552 --> 00:08:25.944
+00:08:22,552 --> 00:08:25,944
 liege nichts vor, er sei einfach ein
 Forscher.
 
 118
-00:08:26.344 --> 00:08:30.519
+00:08:26,344 --> 00:08:30,519
 Diesen Satz hat kein Gericht gesagt. Die
 Beschlüsse handeln von einer Widmung,
 
 119
-00:08:30.569 --> 00:08:34.744
+00:08:30,569 --> 00:08:34,744
 einem Vertrag und davon, was eine Stadt im
 Verfahren vorgetragen hat.
 
 120
-00:08:35.144 --> 00:08:37.644
+00:08:35,144 --> 00:08:37,644
 Über die Person haben sie bewusst nicht
 entschieden.
 
 121
-00:08:38.044 --> 00:08:42.569
+00:08:38,044 --> 00:08:42,569
 Und das schneidet in beide Richtungen. Wer
 die Beschlüsse als Freispruch liest, liest
 
 122
-00:08:42.619 --> 00:08:47.144
+00:08:42,619 --> 00:08:47,144
 zu viel hinein. Wer die Absagen für
 gedeckt hält, hat sie nicht gelesen.
 
 123
-00:08:47.544 --> 00:08:50.099
+00:08:47,544 --> 00:08:50,099
 Beide Lager berufen sich auf dieselben
 Entscheidungen. Beide haben sie nicht
 
 124
-00:08:50.149 --> 00:08:52.704
+00:08:50,149 --> 00:08:52,704
 aufgemacht.
 
 125
-00:08:53.104 --> 00:08:56.279
+00:08:53,104 --> 00:08:56,279
 Die Aktenzeichen stehen in der
 Beschreibung. Alle vier. Du kommst in zwei
 
 126
-00:08:56.329 --> 00:08:59.504
+00:08:56,329 --> 00:08:59,504
 Minuten selbst an die Pressemitteilungen.
 
 127
-00:08:59.904 --> 00:09:03.899
+00:08:59,904 --> 00:09:03,899
 Und wenn du findest, wir haben etwas
 übersehen, dann schreib es mit Zeitmarke
 
 128
-00:09:03.949 --> 00:09:07.944
+00:09:03,949 --> 00:09:07,944
 in die Kommentare. Wir gehen jedem Hinweis
 nach, der eine Quelle mitbringt.
 
 129
-00:09:08.344 --> 00:09:12.664
+00:09:08,344 --> 00:09:12,664
 Wir bewerten nicht. Wir ordnen ein. Das
 Urteil bleibt bei dir.
