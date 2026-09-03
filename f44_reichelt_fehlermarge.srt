@@ -1,0 +1,591 @@
+1
+00:00:11,067 --> 00:00:13,667
+Diese Zahl hat das ZDF nie gemessen.
+
+2
+00:00:14,067 --> 00:00:16,622
+Das ZDF hat die Frage zweimal stellen
+lassen, beide Male über die
+
+3
+00:00:16,672 --> 00:00:19,227
+Forschungsgruppe Wahlen.
+
+4
+00:00:19,627 --> 00:00:25,527
+Im Oktober 2024 erwarteten 72 Prozent
+einen Sieg von Harris.
+
+5
+00:00:25,927 --> 00:00:29,082
+In der letzten Erhebung vor der Wahl waren
+es noch 45 Prozent. Trump lag da
+
+6
+00:00:29,132 --> 00:00:32,287
+bei 38 Prozent.
+
+7
+00:00:32,687 --> 00:00:36,128
+Der höchste Wert, den das ZDF je gemessen
+hat, liegt 26 Punkte unter
+
+8
+00:00:36,178 --> 00:00:39,620
+der Zahl, die du gerade gehört hast.
+
+9
+00:00:40,020 --> 00:00:45,020
+Und befragt wurden keine ZDF-Zuschauer,
+sondern Wahlberechtigte in Deutschland.
+
+10
+00:00:45,420 --> 00:00:48,809
+Das ist der Einstieg in eine Sendung, die
+danach 40 Minuten lang Umfragen
+
+11
+00:00:48,859 --> 00:00:52,247
+erklärt. Eine davon rechnet sie selbst
+falsch, und zwar genau die, an der die
+
+12
+00:00:52,297 --> 00:00:55,686
+absolute Mehrheit hängt.
+
+13
+00:00:56,086 --> 00:01:00,560
+Das hier ist Geist im Detail. Wir bewerten
+nicht, wir ordnen ein. Wir schauen uns an,
+
+14
+00:01:00,610 --> 00:01:05,083
+was gesagt wurde, und halten es gegen die
+Quelle. Was stimmt, sagen wir. Was nicht
+
+15
+00:01:05,133 --> 00:01:09,606
+stimmt, auch. Das Urteil bleibt bei dir.
+
+16
+00:01:10,006 --> 00:01:14,041
+Wenn dir diese Art zu prüfen etwas bringt,
+lass ein Abo da. Und wenn dir hier ein
+
+17
+00:01:14,091 --> 00:01:18,126
+Fehler auffällt, schreib ihn in die
+Kommentare, am liebsten mit Quelle.
+
+18
+00:01:18,526 --> 00:01:22,326
+Worum es in der Sendung geht: Die AfD
+steht in einer Umfrage bei 43
+
+19
+00:01:22,376 --> 00:01:26,176
+Prozent. Ob das für eine eigene Mehrheit
+reicht, hängt daran, ob die Grünen mit 5
+
+20
+00:01:26,226 --> 00:01:30,026
+Prozent in den Landtag kommen.
+
+21
+00:01:30,426 --> 00:01:32,868
+Dann greift der Chefredakteur zum Marker
+und erklärt, wie sicher diese 5 Prozent
+
+22
+00:01:32,918 --> 00:01:35,359
+sind.
+
+23
+00:01:50,793 --> 00:01:53,734
+Eine Fehlermarge ist keine feste Zahl. Sie
+hängt davon ab, wie gross der Wert ist, um
+
+24
+00:01:53,784 --> 00:01:56,726
+den es geht.
+
+25
+00:01:57,126 --> 00:02:00,959
+Die Stichprobe steht in derselben Sendung
+im Bild. Unter dem nächsten Schaubild
+
+26
+00:02:01,009 --> 00:02:04,842
+läuft die Quellenzeile: INSA im Auftrag
+von NIUS, 1.000 Befragte, online,
+
+27
+00:02:04,892 --> 00:02:08,726
+erhoben Ende August.
+
+28
+00:02:09,126 --> 00:02:11,092
+Damit lässt sich das nachrechnen.
+
+29
+00:02:11,492 --> 00:02:16,139
+Bei einem Wert von 5 Prozent liegt die
+Spanne bei plus minus 1,35
+
+30
+00:02:16,189 --> 00:02:20,836
+Punkten. Bei 43 Prozent sind es
+3,07 Punkte. Der grösste
+
+31
+00:02:20,886 --> 00:02:25,532
+Wert, den es überhaupt geben kann, liegt
+bei 3,1 Punkten.
+
+32
+00:02:25,932 --> 00:02:29,221
+Die genannten 2,5 Punkte sind also weder
+das Maximum noch der Wert, der für die
+
+33
+00:02:29,271 --> 00:02:32,560
+Grünen gilt. Für die Partei, um die es
+geht, ist die Zahl fast doppelt so gross
+
+34
+00:02:32,610 --> 00:02:35,899
+wie richtig.
+
+35
+00:02:36,299 --> 00:02:40,457
+Und damit trägt die Folgerung nicht. Von
+fünf auf 2,5 Prozent zu fallen,
+
+36
+00:02:40,507 --> 00:02:44,666
+ist keine knappe Sache. Das sind 3,6 Standardfehler.
+
+37
+00:02:45,066 --> 00:02:48,301
+Aus der Stichprobenziehung allein passiert
+so etwas in der Grössenordnung von einem
+
+38
+00:02:48,351 --> 00:02:51,586
+Fall unter mehreren tausend Ziehungen.
+
+39
+00:02:51,986 --> 00:02:56,619
+Trotzdem hat er in einem Punkt recht, und
+der wiegt schwerer als der Rechenfehler.
+
+40
+00:02:57,019 --> 00:03:00,774
+Die Fehlermarge misst nur den Zufall der
+Ziehung. Sie misst nicht, ob Leute die
+
+41
+00:03:00,824 --> 00:03:04,580
+Wahrheit sagen. Sie misst nicht, ob die
+Gewichtung stimmt. Und sie misst nicht,
+
+42
+00:03:04,630 --> 00:03:08,385
+wer sich in den letzten drei Tagen
+umentscheidet.
+
+43
+00:03:08,785 --> 00:03:11,894
+Dieser zweite Fehler war in Sachsen-Anhalt
+schon einmal sehr gross. Beim selben
+
+44
+00:03:11,944 --> 00:03:15,052
+Institut, im selben Land.
+
+45
+00:03:15,452 --> 00:03:20,047
+Noch zwei Tage vor der Wahl 2021 sah INSA
+die CDU bei 27 Prozent und
+
+46
+00:03:20,097 --> 00:03:24,692
+die AfD bei 26 Prozent.
+
+47
+00:03:25,092 --> 00:03:32,659
+Am Wahlabend stand die CDU bei 37,1
+Prozent. Die AfD kam auf 20,8 Prozent.
+
+48
+00:03:33,059 --> 00:03:37,274
+Das sind 10,1 Punkte daneben,
+bei einer Fehlermarge von rund drei
+
+49
+00:03:37,324 --> 00:03:41,539
+Punkten. In die eine Richtung
+unterschätzt, in die andere überschätzt.
+
+50
+00:03:41,939 --> 00:03:45,528
+Sein Fazit stimmt also. Verlass dich nicht
+auf die Nachkommastelle einer Umfrage. Nur
+
+51
+00:03:45,578 --> 00:03:49,166
+die Begründung stimmt nicht, und die Zahl,
+mit der er es begründet, ist an dieser
+
+52
+00:03:49,216 --> 00:03:52,805
+Stelle fast doppelt zu gross.
+
+53
+00:03:53,205 --> 00:03:57,480
+Die Sendung spielt einen Ausschnitt aus
+dem ARD-Sommerinterview vom 30.
+
+54
+00:03:57,530 --> 00:04:01,805
+August ein. Der Kanzler sagt darin zwei
+Sätze, die man prüfen kann.
+
+55
+00:04:09,072 --> 00:04:12,232
+Die Grössenordnung gibt es. Den Zeitraum
+nicht.
+
+56
+00:04:12,632 --> 00:04:16,699
+Im Jahresbericht des Bundesamtes für
+Migration und Flüchtlinge stehen die
+
+57
+00:04:16,749 --> 00:04:20,815
+Erstanträge. Für das Jahr 2024 stehen dort
+229.751
+
+58
+00:04:20,865 --> 00:04:24,932
+Anträge.
+
+59
+00:04:25,332 --> 00:04:29,107
+Ein Jahr später waren es
+113.236 Anträge. Das
+
+60
+00:04:29,157 --> 00:04:32,932
+sind 50,7 Prozent weniger.
+
+61
+00:04:33,332 --> 00:04:35,907
+Für das laufende Jahr meldet das Amt einen
+Rückgang von 35,3
+
+62
+00:04:35,957 --> 00:04:38,532
+Prozent.
+
+63
+00:04:38,932 --> 00:04:43,174
+Die Regierung ist im Mai 2025 ins Amt
+gekommen. Legst du ein volles Jahr ab da
+
+64
+00:04:43,224 --> 00:04:47,465
+an, kommst du auf rund 46 Prozent.
+
+65
+00:04:47,865 --> 00:04:52,658
+Über 60 Prozent ergibt sich erst, wenn du
+dieselben Monate zwei Jahre davor
+
+66
+00:04:52,708 --> 00:04:57,502
+danebenlegst. Januar bis Mai gegen Januar
+bis Mai sind 64 Prozent weniger.
+
+67
+00:04:57,552 --> 00:05:02,345
+Gemessen ist das ein Zeitraum von zwei
+Jahren, nicht von gut einem Jahr.
+
+68
+00:05:02,745 --> 00:05:07,103
+Dazu kommt: Der grösste Einzelrückgang hat
+vorher eingesetzt. Die Zahlen fielen schon
+
+69
+00:05:07,153 --> 00:05:11,512
+durch das ganze Jahr 2024 hindurch.
+
+70
+00:05:11,912 --> 00:05:14,853
+Die Richtung stimmt also, der Rückgang ist
+real und gross. Falsch ist, dass er in gut
+
+71
+00:05:14,903 --> 00:05:17,845
+ein Jahr passt.
+
+72
+00:05:21,811 --> 00:05:24,136
+Hier haben die Moderatoren recht, und der
+Beleg dafür steht in ihrer eigenen
+
+73
+00:05:24,186 --> 00:05:26,511
+Sendung.
+
+74
+00:05:26,911 --> 00:05:30,545
+Auf dem Schaubild derselben Umfrage steht
+Migration ganz oben. Genannt haben sie
+
+75
+00:05:30,595 --> 00:05:34,228
+38 Prozent, vor Gesundheit
+mit 36 und Wirtschaft mit
+
+76
+00:05:34,278 --> 00:05:37,911
+34 Prozent.
+
+77
+00:05:38,311 --> 00:05:42,520
+Kleine Genauigkeit am Rande: Im
+Gesprochenen fällt der Wert 39 Prozent.
+
+78
+00:05:42,570 --> 00:05:46,778
+Auf dem eigenen Chart stehen
+38 Prozent.
+
+79
+00:05:47,178 --> 00:05:51,870
+Damit du nicht den Eindruck bekommst, hier
+gehe nur das Falsche ins Video. Es treffen
+
+80
+00:05:51,920 --> 00:05:56,611
+drei Aussagen dieser Sendung zu, und zwei
+davon liegen dicht nebeneinander.
+
+81
+00:06:02,378 --> 00:06:06,769
+Das Statistische Bundesamt weist für
+Sachsen-Anhalt ein Durchschnittsalter von
+
+82
+00:06:06,819 --> 00:06:11,211
+48,3 Jahren aus.
+Höchster Wert aller Bundesländer.
+
+83
+00:06:11,611 --> 00:06:15,671
+Dahinter liegt Mecklenburg-Vorpommern mit
+48,1 und Thüringen
+
+84
+00:06:15,721 --> 00:06:19,781
+mit 47,9 Jahren.
+Bundesweit sind es 44,9
+
+85
+00:06:19,831 --> 00:06:23,891
+Jahre. Stimmt beides, der Rang und
+die Spanne.
+
+86
+00:06:27,657 --> 00:06:30,282
+In der Volkswirtschaftlichen
+Gesamtrechnung steht die preisbereinigte
+
+87
+00:06:30,332 --> 00:06:32,957
+Veränderung Jahr für Jahr.
+
+88
+00:06:33,357 --> 00:06:37,772
+Rechnest du die Jahre ab 2019
+zusammen, liegt die Wirtschaft 2025 um
+
+89
+00:06:37,822 --> 00:06:42,237
+0,9 Prozent höher. In sechs
+Jahren.
+
+90
+00:06:42,637 --> 00:06:47,272
+Das sind 0,15 Prozent im Jahr. Wörtlich
+genommen ist es nicht ganz null, sondern
+
+91
+00:06:47,322 --> 00:06:51,957
+knapp ein Prozent. Als Beschreibung des
+Zustands trifft der Satz zu.
+
+92
+00:06:52,357 --> 00:06:56,357
+Und die dritte: Zur Kandidatenfrage nennt
+der Reporter eine Zahl.
+
+93
+00:07:02,324 --> 00:07:05,316
+Auf der Grafik daneben stehen 39 und
+28 Prozent. Das sind genau 11
+
+94
+00:07:05,366 --> 00:07:08,357
+Punkte.
+
+95
+00:07:08,757 --> 00:07:13,224
+Er sagt von sich aus dazu, dass INSA hier
+nur die beiden aussichtsreichen Kandidaten
+
+96
+00:07:13,274 --> 00:07:17,740
+abgefragt hat, während andere Institute
+alle Spitzenkandidaten zur Wahl stellen.
+
+97
+00:07:17,790 --> 00:07:22,257
+Das ist der methodisch saubere Hinweis,
+und er kommt ungefragt.
+
+98
+00:07:32,724 --> 00:07:37,290
+Eine Zahl in dieser Grössenordnung gibt
+es. Sie zählt nur etwas anderes.
+
+99
+00:07:37,690 --> 00:07:41,265
+In der Rechnung der Kassenärztlichen
+Bundesvereinigung stehen 46
+
+100
+00:07:41,315 --> 00:07:44,890
+Millionen Behandlungsfälle, die nicht mehr
+finanziert wären.
+
+101
+00:07:45,290 --> 00:07:48,632
+Ein Behandlungsfall ist ein Patient in
+einer Praxis in einem Quartal. Egal, wie
+
+102
+00:07:48,682 --> 00:07:52,023
+oft er in diesem Quartal kommt.
+
+103
+00:07:52,423 --> 00:07:55,165
+Ein Fall kann also mehrere Kontakte
+enthalten. Die beiden Einheiten sind nicht
+
+104
+00:07:55,215 --> 00:07:57,956
+austauschbar.
+
+105
+00:07:58,356 --> 00:08:01,798
+Und der Fehler geht nicht nach oben. In
+Kontakten gerechnet liegt die Zahl eher
+
+106
+00:08:01,848 --> 00:08:05,289
+über 46 Millionen als
+darunter.
+
+107
+00:08:05,689 --> 00:08:10,545
+Bleibt der Punkt, dass die Kassenärztliche
+Bundesvereinigung vorrechnet, was nicht
+
+108
+00:08:10,595 --> 00:08:15,451
+mehr finanziert wäre. Das ist eine
+Prognose unter Bedingungen, kein
+
+109
+00:08:15,501 --> 00:08:20,356
+gemessener Rückgang. Der Zeitpunkt stimmt:
+Die Kürzungen greifen vom Jahr 2027 an.
+
+110
+00:08:20,756 --> 00:08:23,751
+Damit sind acht Aussagen geprüft. Davon
+treffen drei zu, drei nicht und zwei zum
+
+111
+00:08:23,801 --> 00:08:26,796
+Teil.
+
+112
+00:08:27,196 --> 00:08:30,418
+Auf die Moderatoren allein gerechnet
+stimmen drei ihrer sechs Aussagen,
+
+113
+00:08:30,468 --> 00:08:33,691
+darunter beide Zahlen zur eigenen Umfrage.
+Nicht gedeckt sind zwei, eine nur zum
+
+114
+00:08:33,741 --> 00:08:36,963
+Teil.
+
+115
+00:08:37,363 --> 00:08:41,040
+Der Satz über die ZDF-Zuschauer steht am
+Anfang einer Sendung, die vor
+
+116
+00:08:41,090 --> 00:08:44,768
+irreführenden Zahlen warnt. Der
+Rechenfehler bei der Fehlermarge steht
+
+117
+00:08:44,818 --> 00:08:48,496
+mitten in der Erklärung, wie man Umfragen
+richtig liest.
+
+118
+00:08:48,896 --> 00:08:53,754
+Die Warnung selbst ist berechtigt. Im Jahr
+2021 lag dasselbe Institut im selben Land
+
+119
+00:08:53,804 --> 00:08:58,662
+zehn Punkte daneben, und zwar in beide
+Richtungen.
+
+120
+00:08:59,062 --> 00:09:02,740
+Am Sonntag wird gezählt statt geschätzt.
+Bis dahin gilt für jede Zahl in jeder
+
+121
+00:09:02,790 --> 00:09:06,468
+Umfrage dasselbe: Schau nach, wie viele
+befragt wurden, und rechne die Spanne für
+
+122
+00:09:06,518 --> 00:09:10,195
+den Wert aus, um den es dir geht.
+
+123
+00:09:10,595 --> 00:09:14,395
+Alle Quellen stehen unter dem Video.
+Zeitmarken sind dabei.
+
+124
+00:09:14,795 --> 00:09:19,395
+Wenn du einen Fehler findest, schreib ihn
+in die Kommentare. Am liebsten mit Beleg.
+
+125
+00:09:19,795 --> 00:09:21,515
+Das war Geist im Detail.
