@@ -10,7 +10,7 @@ Rohprüfung: `pruefung_ben.json`, `pruefung_rtl.json` (Workflow-Agenten, 28.09.2
 | # | Clip | Zeit | Sprecher | Aussage | Befund |
 |---|---|---|---|---|---|
 | 1 | c01 | Ben 1:56:53 | Merscher | CDU hat verabschiedet: Häuser müssen dran glauben, erst Vermögen, dann Pflegeversicherung (ab 2027) | **trifft nicht zu** |
-| 2 | c02/c03 | RTL 0:17:43 / 0:18:40 | Merz | „Wir kürzen nicht" → „Wir haben natürlich auch kürzen müssen" | **irreführend** |
+| 2 | c02/c03 | RTL 0:17:43 / 0:18:40 | Merz | „Wir kürzen nicht" → „Wir haben natürlich auch kürzen müssen" | **trifft nicht zu** (hochgestuft 28.09.) |
 | 3 | c04 | Ben 2:31:10 | Merscher | 600 statt 1.700 Kliniken, zwei Drittel sollen schließen, „so entschieden" | **irreführend** |
 | 4 | c05 | Ben 2:31:42 | Merscher | Jedes zweite Krankenhaus bis 2030 pleite/zu | **teilweise** |
 | 5 | c09 | RTL 0:44:22 | Merscher | 2,64 Mrd. im ambulanten Bereich gekürzt | **trifft im Kern zu** |
@@ -22,7 +22,7 @@ Rohprüfung: `pruefung_ben.json`, `pruefung_rtl.json` (Workflow-Agenten, 28.09.2
 | 11 | c14 | RTL 0:15:48 | Merscher | Hilfsmittel: nur noch das billigste Drittel bezahlt | **teilweise** |
 | 12 | c12 | Ben 1:33:29 | Merscher | 500 Mrd. Sondervermögen: kein Cent in Gesundheit, Bildung, Brücken | **trifft nicht zu** |
 
-Bilanz: 2 trifft nicht zu (Merscher), 3 irreführend (Merz 2, Merscher 1), 2 teilweise (Merscher), 5 trifft zu/im Kern zu (Merz 2, Merscher 3).
+Bilanz: 3 trifft nicht zu (Merz 1, Merscher 2), 2 irreführend (Merz 1, Merscher 1), 2 teilweise (Merscher), 5 trifft zu/im Kern zu (Merz 2, Merscher 3).
 
 ---
 
@@ -36,12 +36,13 @@ Bilanz: 2 trifft nicht zu (Merscher), 3 irreführend (Merz 2, Merscher 1), 2 tei
 - Echte Kürzung im Entwurf: § 43c SGB XI, höchster Leistungszuschlag erst nach viereinhalb statt drei Jahren (PNOG S. 72).
 - **!! Vor Upload prüfen:** Kabinettsfassung nach 30.09.2026. Taucht dort eine Vermögensanrechnung auf, kippen VO 001, 004, 005, 010 und die Kachel.
 
-## 2 · „Wir kürzen nicht" — irreführend
+## 2 · „Wir kürzen nicht" — trifft nicht zu
 - Kindergeld 259 € (§ 66 EStG), https://www.gesetze-im-internet.de/estg/__66.html; Plan 267 € 2027 (BMF 02.09.2026).
 - BT-Drs. 21/7860 (Haushaltsbegleitgesetz 2027, 07.09.2026), Art. 7 und Begründung: „Dadurch wird der Sofortzuschlag im Kinderzuschlag abgeschafft", 450 Mio. €/Jahr, https://dserver.bundestag.de/btd/21/078/2107860.pdf
 - Elterngeld: Entwurf Prien, 12 statt 14 Monate für Geburten ab 1.11.2027 (beck-aktuell 07.07.2026, Sekundärquelle).
 - Merz selbst 0:18:40: „Wir haben natürlich auch kürzen müssen".
-- Nicht „trifft nicht zu", weil 2026 noch nichts gekürzt ist und die Erhöhungen stimmen.
+- Hochgestuft am 28.09. von „irreführend" auf „trifft nicht zu": Merz antwortet mit „wir kürzen nicht" auf den Vorwurf, bei Familien zu kürzen, und widerlegt sich 58 Sekunden später auf dieselbe Frage selbst („wir haben natürlich auch kürzen müssen"). Die Kürzung ist von seiner Regierung beschlossen (Regierungsentwurf). Erhöhungen bei Kindergeld und Freibetrag bleiben im Video als zutreffend stehen.
+- Kachel „ÄRZTIN SAGT: MERZ HAT GELOGEN!" ist Zitat: Merscher bei Ben 2:19:47 „Da hat er gelogen, hat ja gesagt, wir kürzen nicht" und 2:20:11 „live on camera ertappe ich ihn der Lüge" (Clip c15, Sprecherin am Bild gesichert `06_referenz/bogen_luege.jpg`). Der Kanal behauptet keine Absicht, er belegt den falschen Satz.
 
 ## 3 · Zwei Drittel der Kliniken — irreführend
 - Bertelsmann-PM 15.07.2019: „von aktuell knapp 1.400 auf deutlich unter 600 Häuser", https://www.bertelsmann-stiftung.de/fileadmin/files/BSt/Presse/Pressemitteilung_Mit-weniger-als-der-Haelfte-der-Krankenhaeuser-waeren-Patienten-in-Deutschland-besser-versorgt_20190712.pdf
