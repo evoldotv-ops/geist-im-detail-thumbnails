@@ -1,0 +1,493 @@
+1
+00:00:12,500 --> 00:00:16,120
+Verseucht, sagt Markus Krall. Und
+gefälschte Mails gibt es in dieser
+
+2
+00:00:16,170 --> 00:00:19,790
+Geschichte tatsächlich.
+
+3
+00:00:20,190 --> 00:00:24,410
+Die Frage ist nur, wo sie stecken. Im
+Datensatz der Hacker, wie Krall sagt? Oder
+
+4
+00:00:24,460 --> 00:00:28,680
+ganz woanders?
+
+5
+00:00:29,080 --> 00:00:32,910
+Reporter haben das nachgeprüft. Und Kralls
+eigener Mitmoderator gibt in derselben
+
+6
+00:00:32,960 --> 00:00:36,790
+Sendung die Antwort.
+
+7
+00:00:37,190 --> 00:00:41,677
+Später kommt ein Kanal der Gegenseite zu
+Wort, der das Gegenteil sagt: Da ist
+
+8
+00:00:41,727 --> 00:00:46,213
+nichts gefälscht, die Daten sind
+gerichtsfest. Auch den halten wir gegen
+
+9
+00:00:46,263 --> 00:00:50,750
+die Quelle.
+
+10
+00:00:51,150 --> 00:00:57,070
+Am 19. Oktober stellen Hacker rund 400.000
+Mails aus der Partei ins Netz. Kurz darauf
+
+11
+00:00:57,120 --> 00:01:03,040
+gehen Bildschirmfotos angeblicher Mails
+herum.
+
+12
+00:01:03,440 --> 00:01:09,845
+Das spricht für Krall: Ein
+Bundestagsabgeordneter der Grünen hat sie
+
+13
+00:01:09,895 --> 00:01:16,300
+geteilt, ein CDU-Abgeordneter hat eine im
+Landtag von Baden-Württemberg vorgelesen.
+
+14
+00:01:16,700 --> 00:01:20,503
+Die Reporter von t-online haben diese
+Bildschirmfotos mit dem Datensatz
+
+15
+00:01:20,553 --> 00:01:24,357
+abgeglichen. Die Mails sollen aus dem Leak
+stammen, schreiben sie, sind darin aber
+
+16
+00:01:24,407 --> 00:01:28,210
+gar nicht zu finden.
+
+17
+00:01:38,180 --> 00:01:41,310
+Das sagt Christian Bubeck, knapp vier
+Minuten nachdem Krall von verseuchten
+
+18
+00:01:41,360 --> 00:01:44,490
+Daten gesprochen hat.
+
+19
+00:01:44,890 --> 00:01:50,760
+Bis hierhin klingt das eindeutig. Dann
+kommt die Einschränkung: Ob jede einzelne
+
+20
+00:01:50,810 --> 00:01:56,680
+Mail im Leak echt ist, hat bisher niemand
+vollständig geprüft.
+
+21
+00:01:57,080 --> 00:02:02,070
+Taucht irgendwo doch eine Fälschung auf,
+prüft ein Gericht trotzdem jedes Dokument
+
+22
+00:02:02,120 --> 00:02:07,110
+für sich, nicht den ganzen Stapel auf
+einmal.
+
+23
+00:02:07,510 --> 00:02:12,520
+Der Datensatz ist mit Fälschungen
+verseucht: Das trifft nicht zu. Die
+
+24
+00:02:12,570 --> 00:02:17,580
+Fälschungen kursieren im Netz, im Leak
+stehen sie nicht.
+
+25
+00:02:17,980 --> 00:02:21,855
+Wir ordnen ein, das Urteil bleibt bei dir.
+Wenn dir das hilft, drück unten auf
+
+26
+00:02:21,905 --> 00:02:25,780
+Abonnieren.
+
+27
+00:02:26,180 --> 00:02:31,705
+Bubeck nennt in derselben Sendung eine
+Umfrage bezahlt und wie bestellt. Das
+
+28
+00:02:31,755 --> 00:02:37,280
+klingt nach Verschwörung. Wir haben
+nachgesehen, wer sie bezahlt hat.
+
+29
+00:02:48,480 --> 00:02:53,493
+57 Prozent wollen laut YouGov, dass das
+Bundesverfassungsgericht die AfD prüft.
+
+30
+00:02:53,543 --> 00:02:58,557
+Bezahlt hat die Umfrage eine
+Petitionsplattform, auf der seit Langem
+
+31
+00:02:58,607 --> 00:03:03,620
+für genau diese Prüfung unterschrieben
+wird.
+
+32
+00:03:04,020 --> 00:03:07,825
+Ein Drittel ist dagegen. Gefragt wurde
+nach einer Prüfung, nicht nach einem
+
+33
+00:03:07,875 --> 00:03:11,680
+Verbot.
+
+34
+00:03:12,080 --> 00:03:16,630
+Bezahlt ist die Umfrage also wirklich, von
+einer Plattform, die selbst für diese
+
+35
+00:03:16,680 --> 00:03:21,230
+Prüfung wirbt. Bubecks Satz trifft zu.
+
+36
+00:03:21,630 --> 00:03:25,065
+Krall zitiert in der Sendung auch
+Umfragen. Die Union stehe dort bei 16
+
+37
+00:03:25,115 --> 00:03:28,550
+Prozent.
+
+38
+00:03:35,650 --> 00:03:40,965
+Die Seite wahlrecht.de sammelt die
+Umfragen aller großen Institute. Bei
+
+39
+00:03:41,015 --> 00:03:46,330
+keinem der acht steht die Union bei 16
+Prozent.
+
+40
+00:03:46,730 --> 00:03:52,440
+Der niedrigste aktuelle Wert liegt bei 18,
+gemessen von YouGov.
+
+41
+00:03:52,840 --> 00:03:59,315
+Die Union steht so tief wie noch nie in
+diesen Reihen, und klar hinter der AfD.
+
+42
+00:03:59,365 --> 00:04:05,840
+Die Richtung stimmt, die Zahl nicht.
+Kralls Satz trifft nicht zu.
+
+43
+00:04:06,240 --> 00:04:10,160
+Bleibt die Frage, wer hinter dem Leak
+steckt. Bubeck und Krall erzählen dazu
+
+44
+00:04:10,210 --> 00:04:14,130
+zwei verschiedene Geschichten.
+
+45
+00:04:25,400 --> 00:04:31,805
+Das stimmt. Die Mails reichen vom März
+2013 bis in den September dieses Jahres.
+
+46
+00:04:31,855 --> 00:04:38,260
+Gegründet wurde die Partei im Februar
+2013.
+
+47
+00:04:38,660 --> 00:04:44,580
+Zwei Täter, das sagt einer von ihnen
+selbst. Er nennt auch das Ziel: mehr Druck
+
+48
+00:04:44,630 --> 00:04:50,550
+für ein Verbotsverfahren. Bubecks Satz
+trifft zu.
+
+49
+00:04:57,920 --> 00:05:04,025
+Was über die Täter bekannt ist, stammt von
+ihnen selbst. Einer sagt im Interview mit
+
+50
+00:05:04,075 --> 00:05:10,180
+der Zeit, er sei in der Ukraine geboren
+und lebe heute in den USA.
+
+51
+00:05:10,580 --> 00:05:15,360
+Im selben Interview bestreitet er, dass
+ein Staat ihn bezahlt. Eine Behörde hat
+
+52
+00:05:15,410 --> 00:05:20,190
+bisher weder Täter noch Auftraggeber
+genannt.
+
+53
+00:05:32,560 --> 00:05:38,245
+Für den Anschlag auf Nord Stream hat die
+Bundesanwaltschaft einen Ukrainer
+
+54
+00:05:38,295 --> 00:05:43,980
+angeklagt. Welcher Staat dahintersteht,
+hat bisher kein Gericht festgestellt.
+
+55
+00:05:44,380 --> 00:05:48,697
+Dass die Ukraine hinter dem Leak steckt,
+ist eine Vermutung. Belegt ist nur, wo
+
+56
+00:05:48,747 --> 00:05:53,063
+einer der Täter nach eigener Aussage
+geboren wurde. Kralls Satz ist nicht
+
+57
+00:05:53,113 --> 00:05:57,430
+belegt.
+
+58
+00:05:57,830 --> 00:06:01,450
+Krall hat noch einen Satz über die Mails.
+Der Verfassungsschutz lese sie ohnehin
+
+59
+00:06:01,500 --> 00:06:05,120
+längst mit.
+
+60
+00:06:20,820 --> 00:06:25,677
+Wann ein Geheimdienst Mails mitlesen darf,
+regelt das Gesetz zum Brief- und
+
+61
+00:06:25,727 --> 00:06:30,583
+Fernmeldegeheimnis. Es braucht den
+Verdacht auf eine bestimmte schwere
+
+62
+00:06:30,633 --> 00:06:35,490
+Straftat, gegen eine bestimmte Person.
+
+63
+00:06:35,890 --> 00:06:40,530
+Jede Anordnung prüft eine Kommission des
+Bundestags. Alle Mails einer Partei zu
+
+64
+00:06:40,580 --> 00:06:45,220
+lesen, erlaubt das Gesetz nicht.
+
+65
+00:06:45,620 --> 00:06:49,750
+Und der Verfassungsschutz stützt sich bei
+der AfD nach eigener Angabe gar nicht auf
+
+66
+00:06:49,800 --> 00:06:53,930
+Mails. Seine 1.100 Seiten Belege beruhen
+allein auf öffentlich zugänglichen
+
+67
+00:06:53,980 --> 00:06:58,110
+Quellen.
+
+68
+00:06:58,510 --> 00:07:03,290
+Ob es einzelne Abhörmaßnahmen gibt, ist
+nicht öffentlich. Für Kralls Satz, dass
+
+69
+00:07:03,340 --> 00:07:08,120
+alles mitgelesen wird, gibt es keinen
+Beleg.
+
+70
+00:07:08,520 --> 00:07:12,045
+Dann legt Krall nach. Der Innenminister
+wolle dem Geheimdienst Fälschungen sogar
+
+71
+00:07:12,095 --> 00:07:15,620
+erlauben.
+
+72
+00:07:27,720 --> 00:07:31,880
+Hier hat Krall einen wahren Kern. Im
+Gesetzentwurf zur Reform der Geheimdienste
+
+73
+00:07:31,930 --> 00:07:36,090
+steht tatsächlich, der Verfassungsschutz
+dürfe Beteiligten falsche Informationen
+
+74
+00:07:36,140 --> 00:07:40,300
+bereitstellen.
+
+75
+00:07:40,700 --> 00:07:44,800
+Erlaubt sein soll das aber nur, um
+Terroranschläge oder Sabotage im Auftrag
+
+76
+00:07:44,850 --> 00:07:48,950
+einer fremden Macht abzuwehren. Und erst,
+wenn ein unabhängiges Kontrollgremium
+
+77
+00:07:49,000 --> 00:07:53,100
+zugestimmt hat.
+
+78
+00:07:53,500 --> 00:07:59,025
+Gefälschte Beweise gegen eine Partei sind
+damit nicht gemeint, und beschlossen ist
+
+79
+00:07:59,075 --> 00:08:04,600
+das Gesetz noch nicht. Kralls Satz ist
+teilweise richtig.
+
+80
+00:08:05,000 --> 00:08:09,665
+Jetzt kommt der Satz, bei dem sich beide
+Lager am heftigsten widersprechen. Darf
+
+81
+00:08:09,715 --> 00:08:14,380
+ein Gericht gestohlene Mails überhaupt
+verwenden?
+
+82
+00:08:14,780 --> 00:08:18,120
+Für Krall taugt der Datensatz zu keiner
+Beweisführung. Die Nachtsitzung hält
+
+83
+00:08:18,170 --> 00:08:21,510
+dagegen.
+
+84
+00:08:48,450 --> 00:08:53,770
+Bubeck fasst die Regel richtig zusammen.
+Das Bundesverfassungsgericht hat 2010 bei
+
+85
+00:08:53,820 --> 00:08:59,140
+gestohlenen Steuerdaten aus Liechtenstein
+festgehalten: Beweise, die Private
+
+86
+00:08:59,190 --> 00:09:04,510
+beschafft haben, sind grundsätzlich
+verwertbar.
+
+87
+00:09:04,910 --> 00:09:08,840
+Der Strafrechtler Matthias Jahn hält
+diesen Maßstab auch für ein Parteiverbot
+
+88
+00:09:08,890 --> 00:09:12,820
+für übertragbar. Der Verfassungsrechtler
+Christoph Möllers nennt die Frage wirklich
+
+89
+00:09:12,870 --> 00:09:16,800
+schwierig.
+
+90
+00:09:17,200 --> 00:09:21,145
+Bei der Verwertbarkeit liegt die
+Nachtsitzung also richtig, Krall nicht.
+
+91
+00:09:21,195 --> 00:09:25,140
+Bubecks Satz trifft zu.
+
+92
+00:09:25,540 --> 00:09:30,180
+Gerichtsfest heißt aber mehr. Jede Mail,
+die ein Gericht nutzt, müsste als echt
+
+93
+00:09:30,230 --> 00:09:34,870
+nachgewiesen sein. Viele tragen eine
+digitale Signatur, mit der sich das prüfen
+
+94
+00:09:34,920 --> 00:09:39,560
+lässt, aber nicht alle.
+
+95
+00:09:39,960 --> 00:09:45,110
+Da ist nichts gefälscht, sagt die
+Nachtsitzung. Bei 400.000 Mails hat das
+
+96
+00:09:45,160 --> 00:09:50,310
+aber noch niemand geprüft. Verwertbar sind
+die Mails also, gerichtsfest sind sie noch
+
+97
+00:09:50,360 --> 00:09:55,510
+nicht, und ihr Satz ist teilweise richtig.
+
+98
+00:09:55,910 --> 00:10:00,970
+9 Sätze aus zwei Videos. Bubeck liegt bei
+den Hackern, beim Gericht und bei der
+
+99
+00:10:01,020 --> 00:10:06,080
+Umfrage richtig. Krall und die
+Nachtsitzung gehen beim Gericht beide zu
+
+100
+00:10:06,130 --> 00:10:11,190
+weit, in entgegengesetzte Richtungen.
+
+101
+00:10:11,590 --> 00:10:15,765
+Und der Satz, mit dem Krall den ganzen
+Leak abtut, hält nicht. Die Fälschungen
+
+102
+00:10:15,815 --> 00:10:19,990
+stehen nicht im Datensatz.
+
+103
+00:10:20,390 --> 00:10:25,100
+Und jetzt du. Hättest du gedacht, dass die
+gefälschten Mails gar nicht aus dem Leak
+
+104
+00:10:25,150 --> 00:10:29,860
+stammen? Schreib es unten in die
+Kommentare.
