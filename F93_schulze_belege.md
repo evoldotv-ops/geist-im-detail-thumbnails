@@ -2,6 +2,7 @@
 
 Stand: 31.10.2026. Laufendes Verfahren (Strafanzeigen gegen Sven Schulze). **Regel 5 streng:** Vorwürfe nur als Vorwürfe,
 keine Aussage darüber, ob sich jemand strafbar gemacht hat. Urteile beziehen sich nur auf die geprüften Sätze.
+**Regel aus der F92-Abnahme (01.11.):** jeder Satz in der gemeinten Lesart geprüft (Vor- und Nachsatz mitgelesen), nichts Bildliches wörtlich widerlegt.
 
 ## Quellen (O-Ton)
 
@@ -40,8 +41,7 @@ keine Aussage darüber, ob sich jemand strafbar gemacht hat. Urteile beziehen si
   Grünen-PGF Irene Mihalic: Merz hätte „Aufklärung in den eigenen Reihen versprochen“ haben sollen.
 - Eine Aussage von Merz, das müsse aufgeklärt werden, wurde in den geprüften Berichten nicht gefunden. Urteil deshalb „nicht belegt“, nicht „falsch“.
 
-## Satz 4: „… und dann sind die ihr Mandat los“ (Langner, A 14:37–14:48) — TRIFFT NICHT ZU
-## Satz 5: „… was Sven Schulze im Übrigen auch gar nicht umsetzen kann“ (Böhm, B 11:34–11:42) — TRIFFT ZU
+## Satz 4: „… was Sven Schulze im Übrigen auch gar nicht umsetzen kann“ (Böhm, B 11:34–11:42) — TRIFFT ZU
 
 - Wortlaut der Versicherung (B 2:37–3:03, Einblendung B 2:40; deckt sich mit dem ZDF vorliegenden Entwurf, ZDFheute 28.10.):
   „… stelle ich unverzüglich mein Mandat zur Verfügung.“ Datiert Magdeburg, 13. Oktober 2026.
@@ -52,20 +52,22 @@ keine Aussage darüber, ob sich jemand strafbar gemacht hat. Urteile beziehen si
 - § 156 StGB: strafbar nur „vor einer zur Abnahme einer Versicherung an Eides Statt zuständigen Behörde“. Eine Fraktion ist keine solche Behörde. https://www.gesetze-im-internet.de/stgb/__156.html
 - Verfassung LSA Art. 41 Abs. 2: Abgeordnete „an Aufträge und Weisungen nicht gebunden“ (nur Hintergrund, nicht im Bild).
 
-## Satz 6: „Das war mehr oder minder ein Befehl von … Sven Schulze“ (Dorfmann, A 30:39–30:58) — TEILWEISE
+## Satz 5: „Das war mehr oder minder ein Befehl von … Sven Schulze“ (Dorfmann, A 30:39–30:58) — TEILWEISE
 
 - ZDFheute 13.10.2026: „Von 15 Abgeordneten hätten 14 für diesen Kurs gestimmt.“ Heuer enthielt sich (Angabe Schulze vor der Presse).
 - O-Ton B 6:41–6:50 (Schuler): Beschluss gefasst, „Es gab eine Enthaltung, das war Guido Heuer.“
 - O-Ton B 7:37–7:43 (Heuer): bleibt im Saal. Kein Beschluss bindet einen Abgeordneten (Art. 41 Abs. 2 LV).
-- Teilweise: Schulze verkündete den Kurs, Druck ist möglich; formal ein Mehrheitsbeschluss, kein Befehl.
+- Gemeinte Lesart: Schulze habe den Auszug der Fraktion aufgezwungen. Dafür spricht: Schulze verkündete den Kurs, Druck ist möglich.
+  Dagegen: Mehrheitsbeschluss 14 von 15; da die Fraktionsvorsitzwahl 8:7 ausging (Schuler B 5:21; Söder laut Berichten 8 zu 7),
+  stimmten mindestens sechs Abgeordnete aus dem Lager der Schulze-Gegner für den Auszug. Bindung keine (Art. 41 Abs. 2 LV). Daher teilweise.
 - dpa 30.10.: Siegmund braucht im ersten und zweiten Wahlgang 42 Stimmen, AfD hat 39.
 
-## Satz 7: „Der Paragraf 106 ist … mit Freiheitsstrafe von einem Jahr bedroht“ (Schuler, B 14:04–14:14) — TEILWEISE
+## Satz 6: „Der Paragraf 106 ist … mit Freiheitsstrafe von einem Jahr bedroht“ (Schuler, B 14:04–14:14) — TEILWEISE
 
 - § 106 Abs. 1 StGB: drei Monate bis fünf Jahre; Abs. 3 besonders schwere Fälle: ein bis zehn Jahre. https://www.gesetze-im-internet.de/stgb/__106.html
 - Tatbestand verlangt Gewalt oder Drohung mit einem empfindlichen Übel. Ob das vorliegt, entscheiden StA/Gericht; im Video ausdrücklich nicht bewertet.
 
-## Satz 8: „aus dem Schulze-Lager eine Gegengeschichte erfunden“ (Dorfmann, A 20:27–20:47) — TRIFFT NICHT ZU
+## Satz 7: „aus dem Schulze-Lager eine Gegengeschichte erfunden“ (Dorfmann, A 20:27–20:47) — TRIFFT NICHT ZU
 
 - ZDFheute 28.10.2026 (Anne Herzlieb), https://www.zdfheute.de/politik/deutschland/cdu-sachsen-anhalt-eid-erklaerung-afd-100.html :
   Ulrich Thomas (CDU) „bestätigt er, dass die Idee mit der eidesstattlichen Versicherung von ihm kam“ (schriftlich, mit Namen).
@@ -77,9 +79,11 @@ keine Aussage darüber, ob sich jemand strafbar gemacht hat. Urteile beziehen si
 
 ## Bilanz
 
-8 Sätze: 2 treffen zu (2, 5), 2 teilweise (6, 7), 1 nicht belegt (3), 3 treffen nicht zu (1, 4, 8). Fremdmaterial ca. 2:20 von 10:00 (O-Ton-Clips c01–c13).
+7 Sätze: 2 treffen zu (2, 4), 2 teilweise (5, 6), 1 nicht belegt (3), 2 treffen nicht zu (1, 7). Fremdmaterial ca. 2:10 von 10:00 (O-Ton-Clips c01–c13 ohne c07).
 
 ## Nicht verwendet / bewusst weggelassen
+
+- Ingo Langner (A 14:37), „… und dann sind die ihr Mandat los“: im Zusammenhang (Einwand gegen das Papier, Unterzeichner würden sich der AfD ausliefern) politisch gemeint, nicht als Rechtsaussage. Wörtliche Widerlegung über § 8 LWG wäre ein Strohmann, deshalb gestrichen (Regel 01.11.).
 
 - Chris Hain (A 27:38) und Schuler (B 18:46): CDU in Mecklenburg-Vorpommern aus dem Landtag (vorläufig 4,9 %, Wahl 20.09.2026) — trifft zu, aus Längengründen nicht im Video.
 - Spekulationen über Schulzes Charakter, Gesundheit, Einkünfte (A 22:53, 25:24) — Meinung, nicht prüfbar.
