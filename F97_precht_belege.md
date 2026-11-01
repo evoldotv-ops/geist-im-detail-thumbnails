@@ -1,0 +1,23 @@
+# BELEGE F97: Precht bei Ronzheimer (BILD-Podcast „Ronzheimer“, 24.10.2026)
+
+Quelle: https://www.youtube.com/watch?v=LhpNvfHolMU („Star-Philosoph vs. Kriegsreporter streiten über Russland und Ukraine“, 48:06).
+Zeitmarken aus Whisper large-v3 (`02_transkript\fenster_alles.txt`), Sprecher am Bild geprüft (`06_referenz\_clipcheck.jpg`).
+Ausführliche Recherche mit allen URLs: `recherche_A_zahlen.md`, `recherche_B_geschichte.md`, `recherche_C_lage.md`.
+
+| Nr | Zeit | Wer | Wortlaut | Befund | Primärquelle |
+|---|---|---|---|---|---|
+| 1 | 13:06 | Precht | „bei gegenwärtigen Meinungsumfragen steht es jetzt, glaube ich, 58 zu 42“ | **TRIFFT NICHT ZU.** Union+SPD+Grüne+FDP bei acht Instituten 49 bis 55 % (Stand 24.10.2026). INSA 24.10.: 51 zu 49, GMS 19.10.: 49 zu 51. Schnitt 52,5 zu 47,5. | wahlrecht.de/umfragen/index.htm, …/insa.htm |
+| 1a | 13:02 | Precht | „In der Wahl in Sachsen-Anhalt haben 60 % keine Partei der Mitte gewählt“ | **TRIFFT ZU** (62,0 %: CDU 17,2 + SPD 9,3 + Grüne 8,9 + FDP 2,6 = 38,0). | wahlergebnisse.sachsen-anhalt.de/wahlen/lt26/erg_land.html (Stand 22.09.2026) |
+| 2 | 12:49 | Precht | „In der Merkel-Zeit haben 90 % … eine Partei der Mitte gewählt … so 6, 7 % Linkspartei“ | **TEILWEISE.** Mitte 2005: 87,3 %, 2009: 82,1 %, 2013: 80,4 %, 2017: 73,1 %. Linke 8,7 % (2005), 11,9 % (2009). Nie 90 %. Passt zu 2002 (93,0 %, PDS 4,0 %). | bundeswahlleiterin.de, Ergebnisse 2002–2017 |
+| 3 | 16:22 | Precht | „habe ich diesen Aufruf, keine Waffenlieferung an die Ukraine, in der Emma damals nicht unterschrieben“ | **TRIFFT ZU.** Precht steht nicht unter Erst- oder weiteren Unterzeichnern. | emma.de/artikel/offener-brief-bundeskanzler-scholz-339463 (29.04.2022) |
+| 3a | 16:53 | Precht | Appell „ein halbes Jahr später“, nicht für Ende der Waffenlieferungen | Zeitangabe falsch (29.06.2022, zwei Monate), Inhalt stimmt: Text fragt, „ob (und wie lange) Waffenlieferungen weiterhin der richtige Weg sind“. Juli Zeh als Mitinitiatorin nicht belegt (im Video nicht behauptet). | zeit.de/2022/27/ukraine-krieg-frieden-waffenstillstand (Archivkopie web.archive.org 01.07.2022) |
+| 4 | 31:50 / 32:20 | Precht | Kissinger saß „dem Vertreter des Vietcong“ gegenüber; Ergebnis werde ihm „0,0 Anerkennung bringen“ | **TRIFFT NICHT ZU.** Gegenüber: Le Duc Tho, Chefunterhändler Nordvietnams. Friedensnobelpreis 1973 „for jointly having negotiated a cease fire in Vietnam in 1973“, Le Duc Tho lehnte ab, zwei Komiteemitglieder traten zurück. | nobelprize.org/prizes/peace/1973/summary/ ; …/tho/facts/ ; …/kissinger/facts/ |
+| 5 | 24:35 | Precht | „Baker war dafür, die NATO möglicherweise aufzulösen“ | **TRIFFT NICHT ZU** (Baker). Baker zu Gorbatschow 18.05.1990: „It is a wonderful dream, but just a dream. In the meantime, NATO exists.“ Genscher nur sowjetischer Falin-Vermerk (zweite Hand). Für Auflösen der Blöcke: Mitterrand. | nsarchive.gwu.edu Briefing Book #613 (Doc. 18, 16, 19) |
+| 6 | 41:12 | Ronzheimer | „… wie sehr Putin, Lawrow sich darüber freuen … Also man hat der AfD gratuliert.“ | **TEILWEISE.** dpa-Liste der Gratulanten 07.09.2026 ohne russische Amtsträger; Peskow 22.09.2026 (dpa nach Interfax): AfD-Aussagen „imponieren uns“. Freude belegt, Glückwunsch nicht. | infranken.de (dpa) art-6394056 und art-6397737 |
+| 7 | 28:16 | Precht | Wirtschaftsleistung Russlands „immer so auf dem Niveau von Italien“ | **TEILWEISE.** IWF WEO Okt. 2026: 2025 nominal 2.572 zu 2.550 Mrd. $; 2014–2021 Russland 68–94 % von Italien; Kaufkraft 2025: 7.235 zu 3.743 Mrd. int. $. | imf.org/external/datamapper/NGDPD@WEO/RUS/ITA und PPPGDP |
+| 8 | 42:43 | Ronzheimer | „Wir hören dort immer verschiedene Zahlen, 2029“ | **TRIFFT ZU.** Breuer (SZ, Mai 2026): „… laufen auf einen Punkt zu: 2029. Könnte es früher passieren? Ja.“ (Fähigkeit). Pistorius „ab 2029“. | pravda.com.ua/eng/news/2026/05/15/8034766/ |
+| 8a | 43:37 / 46:19 | Precht | „völlig illusorischer Quatsch …, dass Putin davon träumt, Deutschland anzugreifen“; Baltikum „mit Sicherheit nicht“ | **Keine Wertung (Einschätzung über Absicht).** Kontext: BND-Präsident Jäger 05.10.2026: keine Hinweise auf großangelegten Angriff, „Allerdings könnte es insbesondere im Baltikum zu niedrigschwelligen militärischen Aktivitäten Russlands kommen.“ | infranken.de (dpa) art-6400875 |
+
+Nicht verwendet: Ronzheimer „April 25“ Selenskyj (Tonspur bestätigt „April 25“, ausdrücklich erst ab Sept./Okt. 2025, TEILWEISE; zu verwickelt), Le Pen (Sprecherzuordnung des Einwurfs am Bild nicht eindeutig), Trump/Biden-Waffen (nicht belegt), Bukarest 2008 (trifft zu, Nebenschauplatz), Lawrow-Zitat (nur Sekundärquelle).
+
+Kachel „MITTE: 58 %? / FALSCH!“ gedeckt durch Nr. 1 (trifft nicht zu). „58“ fällt im Cold-Open-Clip (0:08) und im ersten VO-Satz.
