@@ -1,0 +1,60 @@
+# BELEGE F100: Brockhaus und Frei bei Maischberger, Teil 3 (ARD, 14.10.2026)
+
+Quelle: maischberger, ARD (WDR), Mi 14.10.2026, ARD-Mediathek https://www.ardmediathek.de/video/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtZWUxMmM2NzktNDNkZi00M2QxLTkxYmEtNmJhOTg4YzQ3ZTE1 (yt-dlp `hls-main-3157`, ganze Sendung 74:28 als `01_quelle/quellvideo.mp4`, Dateizeit = Sendungszeit). Wortlaut Whisper large-v3 über 0:00 bis 45:00 (`02_transkript/fenster_alles.txt`, Wortzeiten `fenster_alles_woerter.json`), gegengelesen mit den ARD-Live-Untertiteln (`ard_ut_sprecher.txt`, Sprechertags der Untertitler).
+
+Sprecher am Kamerabild geprüft (Kontaktbögen `10_thumbnail/_kand/`): Kohl mit Bauchbinde „Anja Kohl, ARD-Moderatorin und Wirtschaftsexpertin“ bei 1:58 bis 2:05, Kohl im Bild 12:24 bis 13:20 und 19:37 bis 19:45 („Null Kompetenz“ spricht Kohl), Brockhaus mit Bauchbinde „Moderatorin Meinungsfreiheit mit Nena Brockhaus (Welt TV)“ bei 11:10, Frei im Bild 30:45 bis 31:10, Klüssendorf mit Bauchbinde „Generalsekretär der SPD“ bei 33:08.
+
+Nur Sätze, die F88 (44:50 bis 64:40) und F99 (44:50 bis 74:25) nicht geprüft haben; alle stammen aus dem bisher nie geladenen Teil 0:00 bis 44:50. Ausführlich mit allen Zitaten: `recherche_A_kohl_panel.md`, `recherche_B_frei_kluessendorf.md` (03.11.2026).
+
+Kommentare (yt-dlp 03.11.2026, `02_transkript/komm_auswertung.txt`): Endlich Klartext `TRHA5Iw-6ps` „Nena Brockhaus dominiert bei Maischberger!“ 511.633 Aufrufe, Spitzenkommentare geschlossen pro Brockhaus („Danke für ihren Mut, Nena Brockhaus!“ 394 Likes, „Die sind meilenweit von der Realität entfernt. Außer Frau Brockhaus.“ 381); gegen Kohl („Nein Frau Kohl, die Politik muss die AfD nutzen …“ 84, „Frau Kohl hat wohl vergessen, warum wir so viel Strukturreformen brauchen“ 56). LAGEBERICHT `dYOYv8oI9kc` 27.061: „Die Anja Kohl redet den gleichen Schwachsinn …“ 58, „CDU und AfD haben sehr viele Überschneidungen!!!!“. Politik & Co `ksOuWLQ3T90` „Merz wollte AfD halbieren und halbiert sich selbst“ 15.593. Mein Blick `tqSUhoLU6sA` (Precht-Teil, F88-Material): pro Precht, gegen Kohl. tagesschau `qVC_91WCKKE` (Frei/Klüssendorf, 97.013 Aufrufe): Kommentare geschlossen. Das Publikum steht bei Brockhaus und gegen Union-Spitze und Kohl; zur Rente gibt es kaum Kommentare.
+
+| Nr | Clip | Sendung | Wer | Wortlaut (Whisper) | Befund |
+|---|---|---|---|---|---|
+| 1 | c01 | 30:41 | Frei | „Wir haben jetzt die große Chance, es ist ja nicht die erste Rentenkommission, die wir haben, in der Geschichte der Bundesrepublik. Aber nie ist was draus gefolgt. Jetzt haben wir die Chance, für die nächsten 30 Jahre eine Lösung zu finden.“ | **trifft nicht zu** |
+| 2 | c02 | 12:33 | Kohl | „Will sie sich annähern an die AfD? Oder … an die Grünen für eine nächste Bundestagswahl? Weil das ist die einzige Mehrheit, die derzeit möglich ist. Schwarz, Rot, Grün, wenn man der Sonntagsfrage glaubt. Außer einer CDU-AfD-Regierung.“ | **trifft zu** |
+| 3 | c03 | 19:32 | Kohl (Frage Maischberger) | M.: „Wären denn die Punkte … mit der AfD nicht möglich?“ K.: „Wo sind denn die Überschneidungspunkte? Was hat denn die AfD für ein Politikprogramm? Außer Migration. Also Wirtschaft ist es nicht. Null Kompetenz.“ | **teilweise** |
+| 4 | c04 | 34:43 | Frei | „Alle Studien, die es dazu gibt, die sagen im Grunde genommen, wer nimmt die abschlagsfreie Rente in Anspruch? Es sind überwiegend Männer, sie sind überwiegend gesund. … Sie sind überwiegend besser verdient.“ (Klüssendorf dazwischen: „Gerade im Osten von Deutschland ist es viel breiter aufgestellt.“) | **teilweise** |
+| 5 | c05 | 33:00 | Klüssendorf | „Naja, die Menschen, die diese Möglichkeit momentan nutzen, erstens arbeiten die meistens schon länger als 45 Jahre, die meisten schon 47, teilweise 48 Jahre.“ | **im Kern richtig** |
+| 6 | c06, c07 | 41:01, 41:51 | Klüssendorf, Frei | K.: „… wo irgendwie acht Leute der Union angeben, mit Enthaltung gestimmt zu haben, weiß ich automatisch, dass drei Leute gelogen haben.“ F.: „… dass der AfD-Kandidat vier Stimmen mehr bekommen hat als AfD und BSW-Stimmen im Parlament haben.“ | **trifft zu** (beide) |
+| 7 | c08 | 16:41 | Brockhaus | „Ich meine, die CDU verzwergt sich. Friedrich Merz wollte die AfD halbieren und halbiert sich selbst.“ | **teilweise** |
+
+Haken (Schritt 4b): Nr. 1, einziger glatter Fehlbefund, ohne Hintertür (Wortlaut am Ton geprüft: „nie ist was draus gefolgt“, allgemein über alle früheren Kommissionen). Er trifft den Mächtigeren (Unionsfraktionschef), der die Rente nach 45 Jahren abschaffen will, also die Seite, gegen die das ältere Publikum steht. Kachel „RENTENKOMMISSION FOLGENLOS? / FALSCH!“, Gesichter Brockhaus (Zugname, 511.633 Aufrufe beim Reaktionsvideo) und Frei. Kohls AfD-Satz trägt kein FALSCH: Sie schiebt selbst „Null Kompetenz“ nach und sagt schon um 13:15 „tendenziell wirtschaftsinkompetent“, gemeint ist also auch Kompetenz, und das ist Wertung (Hintertür).
+
+Verworfen: Kohl „abschlagsfreie Rente mit 44 Beitragsjahren“ (Whisper hört „nach 45 Beitragsjahren“, Untertitel-Fehler), Kohl Bas-Biografie (trifft zu, „Sozialhilfe“ nur als Sozialamt-Anekdote im Freitag belegt, Beleg hinter Bezahlschranke), Frei „2015 eingeführt“ (Whisper: „wir haben 2014, 2015“), Kohl „Verteidigung bringt Wachstum“ (trifft zu, aber im F88-Clip-Umfeld), Preiß „7:8“ (trifft zu, zu klein), Metro (trifft im Kern zu, liegt nach 44:50).
+
+## 1 · „Nie ist was draus gefolgt“ — trifft nicht zu
+- Bundestag, Drucksache 15/2149 vom 09.12.2003 (Gesetzentwurf RV-Nachhaltigkeitsgesetz), S. 18: „Entsprechend der Vorschläge der ‚Kommission für die Nachhaltigkeit in der Finanzierung der Sozialen Sicherungssysteme‘ wird der Nachhaltigkeitsfaktor an die bestehende Anpassungsformel angefügt …“; ebenda: „Auf der Grundlage des Berichts der ‚Kommission … ‘ unter Leitung von Prof. Bert Rürup wird mit dem Nachhaltigkeitsfaktor … eine geeignete Maßnahme vorgeschlagen.“ https://dserver.bundestag.de/btd/15/021/1502149.pdf (`09_belege/pdf/BT-Drs_15-2149_…pdf`, Beleg `markiert/drs15_ruerup.png`). Gesetz vom 21.07.2004, BGBl. I S. 1791.
+- taz 18.08.2003 „Länger arbeiten für weniger Rente“: „Abschlussbericht der Rürup-Kommission empfiehlt Anhebung des Rentenalters auf 67 Jahre, schrittweise Senkung der Renten …“ https://taz.de/Laenger-arbeiten-fuer-weniger-Rente/!723321/ (`markiert/taz_ruerup.png`). Ebenso MEA Policy Brief 1/2003.
+- Bundestag, Drucksache 16/3794 vom 12.12.2006, „Gesetzentwurf der Fraktionen der CDU/CSU und SPD“ zur Anpassung der Regelaltersgrenze (Rente mit 67), Gesetz vom 20.04.2007, BGBl. I S. 554. https://dserver.bundestag.de/btd/16/037/1603794.pdf (`markiert/drs16_67.png`). Die Drucksache nennt die Kommission nicht ausdrücklich; der Vorschlag stammt von ihr (taz, MEA).
+- Bericht der Alterssicherungskommission 2026, S. 36: „Zu diesem Zweck soll der Nachhaltigkeitsfaktor der aktuellen Rentenanpassungsformel beibehalten werden, dessen Anwendung derzeit bis 2031 ausgesetzt ist. Der Parameter ‚alpha‘ im Nachhaltigkeitsfaktor soll zudem moderat auf 0,33 erhöht werden …“ (`markiert/ask_faktor.png`).
+- Fair: Nach der Kommission „Verlässlicher Generationenvertrag“ (Bericht 27.03.2020) ist wenig unmittelbar gefolgt. Frei spricht aber allgemein („nicht die erste … nie“).
+
+## 2 · „Einzige Mehrheit Schwarz-Rot-Grün, außer CDU-AfD“ — trifft zu
+- wahlrecht.de, INSA 13.10.2026: Union 18,5, SPD 13,5, Grüne 14, FDP 4,5, Linke 10, AfD 30, BSW 3,5 (`markiert/wr_insa.png`); Forsa 13.10., FGW 08.10., infratest dimap 01.10. gleiche Lage. Eigene Rechnung (Parteien über 5 %): Union+SPD 32 von 86 (37,2 %), Union+Grüne 32,5 (37,8 %), Union+SPD+Grüne 46 (53,5 %), Union+AfD 48,5 (56,4 %).
+- Rechnerisch auch Union+SPD+Linke knapp (Forsa, FGW, dimap); politisch durch den CDU-Unvereinbarkeitsbeschluss ausgeschlossen. Kohl meint die politisch möglichen.
+
+## 3 · „Was hat die AfD für ein Politikprogramm? Außer Migration. Wirtschaft ist es nicht. Null Kompetenz.“ — teilweise
+- AfD-Bundestagswahlprogramm 2025, S. 10 (erste Programmseite, Teil „Zeit für Wohlstand“, Kapitel „Soziale Marktwirtschaft und Gesundheit“): „Wir stehen fest zu den Prinzipien der Sozialen Marktwirtschaft, die seit Jahrzehnten Wohlstand und sozialen Frieden in unserem Land sichern.“ https://www.afd.de/wp-content/uploads/2025/02/AfD_Bundestagswahlprogramm2025_web.pdf (`markiert/afd_marktwirtschaft.png`). Eigene Wortzählung S. 10 bis 176 (29.370 Wörter): Wirtschaft/Standort 4,0 %, Bauen/Infrastruktur/Energie/Verkehr/Digitales 10,6 %, Finanzen/Steuern 5,1 %, Währung 6,2 % = 25,9 %; Kapitel „Zuwanderung wieder national regeln“ 9,1 %.
+- DIW aktuell 88 (21.08.2023, Wahl-O-Mat-Auswertung): „große Gemeinsamkeiten in den Antworten zwischen AfD, FDP und CDU/CSU“ in Wirtschaft, Steuern, Klima und Soziales (`markiert/diw_afd.png`).
+- Für Kohl: LBBW Research 11.02.2025: „Anders bei AfD, BSW und die Linke: hier stehen laut der Analyse wirtschaftspolitische Elemente erst gar nicht im Vordergrund der Wahlprogramme.“ „Null Kompetenz“ ist Wertung und wird nicht geprüft.
+
+## 4 · „Überwiegend Männer, gesund, besser verdient“ — teilweise
+- Bundestag, Drucksache 21/7180 (Antwort 14.07.2026), Tabelle Rentenzugang Altersrente für besonders langjährig Versicherte: 2025: 262.361 Zugänge, 55,3 % Männer, 44,7 % Frauen (`markiert/drs7180_frauen.png`).
+- Gesundheit: IW-Kurzbericht 98/2022 (schlechtere Selbsteinschätzung = seltener abschlagsfrei vorzeitig); Kommissionsbericht 2026, S. 24: „vor allem Besserverdienende, Gesündere und Männer“.
+- Einkommen: IW-Kurzbericht 98/2022: „Während nur 5 Prozent der Personen im untersten Einkommensfünftel vorzeitig abschlagsfrei in Rente gehen, sind es im mittleren Einkommensfünftel 36 Prozent“; viertes Fünftel 31 %, oberstes 22 % (`markiert/iw_einkommen.png`).
+- Freis Nachsatz „die wirklich wenig Geld haben, gehen nicht zwei Jahre früher“ im Kern gestützt: Rentenzugang 2024 mit Abschlägen 28,3 %, Frauen Ost 44,0 % (DRV, sozialpolitik-aktuell Tab. VIII.13).
+- Klüssendorfs „im Osten breiter“: Anteil am Rentenzugang Ost 32,9 %, West 27,3 % (ZDFheute 03.08.2026).
+
+## 5 · „Länger als 45 Jahre, die meisten 47“ — im Kern richtig
+- Bundestag, Drucksache 21/6516 (15.06.2026), S. 4: Zugang 2025 im Durchschnitt 559,8 Monate mit Beitragszeiten (46,7 Jahre), 551,0 Pflichtbeitragsmonate (`markiert/drs6516_monate.png`).
+- Einschränkung: § 51 Abs. 3a SGB VI, auf die 45 Jahre zählen auch Kindererziehung (Berücksichtigungszeiten), nicht erwerbsmäßige Pflege, Arbeitslosengeld und Krankengeld. „Arbeiten“ ist zu eng.
+
+## 6 · „Drei Leute haben gelogen“ / „vier Stimmen mehr als AfD und BSW“ — trifft zu
+- dpa/Volksstimme 06.10.2026: „Im Parlament von Sachsen-Anhalt bekam der 35-jährige Tobias Rausch in geheimer Abstimmung 48 von 82 Stimmen – also vier mehr, als AfD und BSW zusammen haben.“ Ergebnis 48 Ja, 29 Nein, 5 Enthaltungen; AfD 39, BSW 5 Sitze von 83 (`markiert/vs_rausch.png`).
+- dpa/Volksstimme 09.10.2026: „Mindestens drei CDU-Abgeordnete im Landtag von Sachsen-Anhalt haben laut einem Bericht der ‚taz‘ die Unwahrheit über ihr Abstimmungsverhalten … gesagt … Demnach antworteten acht von ihnen, dass sie sich enthalten haben. Es gab allerdings bei der geheimen Abstimmung lediglich fünf Enthaltungen.“ (`markiert/vs_taz.png`).
+- Frei „AfD und BSW reichen für eine Mehrheit“: 44 von 83 Sitzen, Art. 65 Abs. 2 Landesverfassung (Mehrheit der Mitglieder, 42).
+
+## 7 · „Merz wollte die AfD halbieren und halbiert sich selbst“ — teilweise
+- nau.ch 14.11.2018: „Kurzfristig bekomme man die AfD zwar nicht weg … sagte der frühere CDU/CSU-Fraktionschef heute Mittwoch im Interview der ‚Bild‘-Zeitung. ‚Aber halbieren kann man sie‘, fügte er hinzu.“ (`markiert/nau_merz.png`). Merz 2023 (t-online): „Ich wiederhole meine Formulierung des Jahres 2019 heute nicht mehr.“
+- Union im Bund: Bundestagswahl 23.02.2025 28,5 %; Oktober 2026 18,5 (INSA) bis 21 (FGW), DAWUM-Mittel 13.10.2026 19,6 %. Rund ein Drittel weniger, nicht die Hälfte (14,25).
+- Sachsen-Anhalt: bpb: „Zweitstärkste Kraft wurde die CDU mit 17,2 Prozent … 2021 erhielt die Partei 37,1 Prozent der Stimmen.“ (`markiert/bpb_lsa.png`). Dort mehr als halbiert.
