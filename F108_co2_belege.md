@@ -8,11 +8,11 @@ Fehler gefunden? Schreib ihn in die Kommentare unter dem Video, am liebsten mit 
 
 Am 6. November 2026 schreibt Bundeskanzler Friedrich Merz an EU-Kommissionspräsidentin Ursula von der Leyen. Er
 verteidigt den europäischen Emissionshandel (ETS) gegen Lockerungen, die mehrere Mitgliedstaaten wollen. Bekannt wird
-der Brief am 10. November. Am selben Tag nennt Alice Weidel ihn in der Presseerklärung der AfD-Fraktion einen
+der Brief am 10. November. Am selben Tag nennt Alice Weidel ihn in der Pressestatement der AfD-Fraktion einen
 „Bettelbrief“. Am 11. November berichtet NIUS Live darüber. Wir haben drei Sätze geprüft.
 
 Quellen der Ausschnitte:
-- Presseerklärung der AfD-Fraktion im Bundestag mit Alice Weidel und Tino Chrupalla, 10.11.2026: https://www.youtube.com/watch?v=Y5vnO8rCKNw
+- Pressestatement der AfD-Fraktion im Bundestag mit Alice Weidel und Tino Chrupalla, 10.11.2026: https://www.youtube.com/watch?v=Y5vnO8rCKNw
 - NIUS Live, 11.11.2026: https://www.youtube.com/watch?v=os2IFVoFm4A
 - Caren Miosga, ARD, 13.4.2025, „Geht so Ihr Politikwechsel, Herr Merz?“ (ARD-Mediathek)
 - Der Brief im Bild: Aktien mit Kopf, 11.11.2026, https://www.youtube.com/watch?v=gCv63qf3X3U
@@ -25,7 +25,7 @@ unverändert. Standbilder von Merz stammen aus dieser Sendung vom 13.4.2025 und 
 
 ### 1. Alice Weidel: die CO2-Steuer in Deutschland „noch weiter zu erhöhen auf das Jahr 2027“
 
-Wortlaut (Presseerklärung, ab 8:07): „Und spätestens bei diesem Bettelbrief, die CO2-Steuer in Deutschland unbedingt
+Wortlaut (Pressestatement, ab 8:07): „Und spätestens bei diesem Bettelbrief, die CO2-Steuer in Deutschland unbedingt
 beizubehalten und noch weiter zu erhöhen auf das Jahr 2027, muss man sich die Frage stellen, wessen Interessen dient
 eigentlich Friedrich Merz? Den deutschen Interessen sicherlich nicht.“
 
@@ -59,6 +59,7 @@ eigentlich Friedrich Merz? Den deutschen Interessen sicherlich nicht.“
   Liter bei Heizöl“. Da der Höchstpreis 2027 ebenfalls 65 Euro beträgt, kann der CO2-Anteil zum Jahreswechsel nicht steigen.
   https://www.adac.de/rund-ums-fahrzeug/auto-kaufen-verkaufen/kfz-steuer/co2-steuer/ und
   https://www.adac.de/rund-ums-haus/energie/spartipps/co2-preis-oel-gas/
+- **Genau gelesen:** Der Korridor der Versteigerungen bleibt 2027 bei 55 bis 65 Euro. Für Mengen außerhalb der Versteigerung steigen zwei Festpreise um je 3 Euro: der Überschussmengenpreis von 68 auf 71 Euro, der Nachkaufpreis von 70 auf 73 Euro. Dafür kommen 40 Millionen Zertifikate mehr in die Versteigerung. Laut Beschlussempfehlung wird für 2027 ein Durchschnittspreis erwartet, „der exakt dem Durchschnittspreis von 2026 entspricht“; 2026 liegt er „knapp über 66 Euro“, also leicht über dem Korridor. Die AfD hielt im Ausschuss dagegen: „Der vorgesehene Preisdeckel greife in der Praxis nicht, da sowohl der Überschussmengen- als auch der Nachkaufpreis weiterhin über dem angestrebten Korridor von 55 bis 65 Euro je Tonne lägen.“ Wenn der Film sagt, für 2027 sei keine Erhöhung beschlossen und es komme kein Cent dazu, ist dieses erwartete gleiche Preisniveau gemeint, nicht jeder einzelne Festpreis. Drucksache 21/8626, https://dserver.bundestag.de/btd/21/086/2108626.pdf
 - **Stand 12.11.2026:** Der Bundesrat berät das Gesetz am 20.11.2026 (Drucksache 624/26, Tagesordnung der Sitzung). Im Film nennen wir deshalb nur den Beschluss des Bundestags.
 - Für Weidel spricht: Ab 2028 gilt der europäische ETS 2 mit einem Marktpreis, und Merz lehnt weitere Änderungen ab. Wie
   hoch der Preis dann liegt, ist offen.
@@ -84,7 +85,7 @@ einmal für alle teurer, teurer, teurer.“
   Sonntagabend bei Caren Miosga“ gesagt,
   https://www.berliner-zeitung.de/politik-gesellschaft/merz-sagt-alles-werde-teurer-damit-muessen-verbraucher-kuenftig-rechnen-li.2316499).
   Bild und Ton bei NIUS stimmen mit dieser Sendung überein. NIUS blendet dazu am rechten Bildrand „ARD @Caren Miosga,
-  05.10.2025“ ein. Im Original sagt Merz in diesem Satz einmal „teurer“: „Es wird zunächst einmal für alle teurer.“ Bei
+  05.10.2025“ ein. Am 5.10.2025 war Merz als Kanzler erneut bei Caren Miosga; in den Untertiteln der ARD zu dieser Sendung kommen „teurer“ und „CO2“ nicht vor, das Bild des Einspielers ist das der Sendung vom 13.4.2025. Im Original sagt Merz in diesem Satz einmal „teurer“: „Es wird zunächst einmal für alle teurer.“ Bei
   NIUS ist das Wort dreimal hintereinander zu hören.
 - Für NIUS spricht: Dass es durch den CO2-Preis teurer wird, will Merz. In derselben Antwort sagt er 2025: „CO2 wird
   teurer. Wenn uns der Umweltschutz, der Klimaschutz etwas wert ist, dann wird es teurer. Es wird 2027 abgelöst durch ein
