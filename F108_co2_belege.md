@@ -19,7 +19,7 @@ Quellen der Ausschnitte:
 
 **Zum Bild:** Im Ausschnitt mit dem Satz „Es wird zunächst einmal für alle teurer“ zeigt die ARD-Regie Caren Miosga,
 Merz spricht aus dem Off. Wir zeigen dort ein Bild von Merz aus derselben Antwort, 17 Sekunden später. Der Ton ist
-unverändert.
+unverändert. Standbilder von Merz stammen aus dieser Sendung vom 13.4.2025 und tragen im Film den Hinweis Archivbild mit Sender und Datum.
 
 ## Die drei Sätze
 
@@ -46,13 +46,14 @@ eigentlich Friedrich Merz? Den deutschen Interessen sicherlich nicht.“
 - Abstimmung: „In namentlicher Abstimmung votierten 303 Abgeordnete für den Gesetzentwurf, 210 stimmten dagegen. Es gab
   52 Enthaltungen.“ „Die AfD votierte dagegen, Die Linke enthielt sich.“
   https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-brennstoffemissionshandelsgesetz-1223608
-  Namentliches Ergebnis: CDU/CSU 195 Ja, SPD 108 Ja, AfD 133 Nein, Grüne 75 Nein, Die Linke 52 Enthaltungen,
+  Laut Textarchiv folgte die namentliche Abstimmung auf die zweite Lesung, in der auch die Grünen zugestimmt hatten.
+  Namentliches Ergebnis der Schlussabstimmung: CDU/CSU 195 Ja, SPD 108 Ja, AfD 133 Nein, Grüne 75 Nein, Die Linke 52 Enthaltungen,
   fraktionslos 2 Nein. https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung/?id=1037
 - Haltung der AfD: „Als Alternative forderte die Fraktion der AfD die vollständige Abschaffung der CO₂-Bepreisung, die
   Bürger und Unternehmen jährlich um rund 16 Milliarden Euro entlasten solle.“ Drucksache 21/8626, S. 21,
   https://dserver.bundestag.de/btd/21/086/2108626.pdf
 - Zum Satz „Zum Jahreswechsel werden wir auch erhebliche Preissprünge auf Benzin, Diesel, Heizöl, Erdgas erwarten
-  können“ (ab 8:55): Eine Ursache nennt Weidel nicht. Geprüft haben wir nur den CO2-Anteil. ADAC: „Tatsächlich endeten
+  können“ (ab 8:54): Eine Ursache nennt Weidel nicht. Geprüft haben wir nur den CO2-Anteil. ADAC: „Tatsächlich endeten
   alle Versteigerungen beim Höchstpreis von 65 Euro je Tonne.“ Bei 65 Euro beträgt der CO2-Anteil „rund 18,6 Cent je
   Liter Benzin und 20,5 Cent je Liter Diesel“, beim Heizen „rund 1,56 Cent pro kWh bei Erdgas und rund 20,70 Cent pro
   Liter bei Heizöl“. Da der Höchstpreis 2027 ebenfalls 65 Euro beträgt, kann der CO2-Anteil zum Jahreswechsel nicht steigen.
@@ -79,9 +80,13 @@ einmal für alle teurer, teurer, teurer.“
   allowances to be injected if the ETS2 price rises above a certain level.“ EU-Kommission, 11.6.2026,
   https://climate.ec.europa.eu/news-other-reads/news/commission-welcomes-agreement-key-safeguards-new-emissions-trading-system-buildings-and-road-2026-06-11_en
 - Der eingespielte Merz-Satz stammt aus der Sendung Caren Miosga vom 13.4.2025, vor Merz' Wahl zum Kanzler. Der Ton bei
-  NIUS stimmt mit dem Ton der Sendung überein (Vergleich der Tonspuren). Im Original sagt Merz: „Es wird zunächst einmal für
-  alle teurer.“ Das Wort „teurer“ fällt einmal, bei NIUS dreimal. Kurz darauf sagt er: „Es wird 2027 abgelöst durch ein
-  europäisches einheitliches System.“ Der Start ist inzwischen 2028.
+  NIUS stimmt mit dem Ton der Sendung überein (Vergleich der Tonspuren). Im Original sagt Merz in diesem Satz einmal
+  „teurer“: „Es wird zunächst einmal für alle teurer.“ NIUS lässt das Wort dreimal nachhallen.
+- Für NIUS spricht: In derselben Antwort sagt Merz „CO2 wird teurer. Wenn uns der Umweltschutz, der Klimaschutz etwas wert
+  ist, dann wird es teurer. Es wird 2027 abgelöst durch ein europäisches einheitliches System. … Und dann wird es
+  sukzessive teurer, weil wir einfach dafür sorgen wollen.“ Gemeint sind laut Merz der Verkehr und das Heizen. Ein
+  steigender CO2-Preis ist also gewollt. „Alles teurer“ steht aber nicht im Brief, und für 2027 bleibt der Preis gleich.
+  Der europäische Start ist inzwischen 2028.
 
 ### 3. Friedrich Merz: „Der ETS ist ein gut funktionierendes, marktwirtschaftliches System …“
 
@@ -104,6 +109,7 @@ marktwirtschaftliches Instrument sei, was funktioniert, stimmt eindeutig nicht u
 Beim European Industry Summit sagte Merz auf Englisch laut Bloomberg: “So if this is not achievable and if this is not
 the right instrument, we should be very open to revise it, or at least to postpone it,”
 https://www.energyconnects.com/news/renewables/2026/february/eu-carbon-prices-plunge-as-merz-signals-openness-to-soften-rules
+(Artikel vom 12.2.2026)
 
 Laut S&P Global Platts sagte er kurz davor: “This system [EU ETS] is not the system to generate new revenues. This system
 is implemented to reduce CO2 emissions and, at the same time, to enable the companies to come to CO2-free production
@@ -114,3 +120,9 @@ https://eurometal.net/european-carbon-prices-slide-as-germanys-merz-says-eu-ets-
 Im Redetext, den die Bundesregierung veröffentlicht hat, fehlt diese Stelle:
 https://www.bundesregierung.de/breg-en/news/speech-at-the-european-industry-summit-2406966
 Einen Mitschnitt haben wir nicht gefunden. Die Stelle beruht auf den beiden Agenturberichten.
+
+Schon am nächsten Tag, beim informellen Treffen der Staats- und Regierungschefs in Alden Biesen (12.2.2026), verteidigte
+Merz das System laut dem Warschauer Institut OSW: “This shows that we have the right instrument. However, it must be
+constantly adjusted.”
+https://www.osw.waw.pl/en/publikacje/analyses/2026-02-20/germany-and-ets-yes-to-softening-no-to-dismantling
+EU Perspectives beschreibt das als Rücknahme („right tool“, „readjusted again and again“): https://euperspectives.eu/?p=14071
