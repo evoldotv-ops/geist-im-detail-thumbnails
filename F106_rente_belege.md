@@ -102,7 +102,7 @@ Handelskammer in Berlin sagte der Kanzler diese Einigung der Bundesregierung bei
 - Einschränkung: Merz spricht jedes Mal über die ganze Rentenreform, nicht eigens über die Aktienrente. Im Juni nennt
   er das Jahresende einen Wunsch.
 
-**Urteil: trifft zu.** Merz hat dieses Jahr mehrfach öffentlich als Ziel genannt, und der Zeitplan ist zweimal
+**Urteil: trifft zu.** Merz hat die Rentenreform mehrfach öffentlich als Ziel für dieses Jahr genannt, und der Zeitplan ist zweimal
 gerutscht.
 
 ### 5. NIUS Live: „Das Herzstück der angekündigten Rentenreform, die sogenannte Aktienrente, ist für dieses Jahr konkret abgesagt.“
@@ -117,13 +117,15 @@ Moderation der Sendung vom 4.11.2026.
 - Für dieses Jahr entfällt damit der ausformulierte Gesetzestext zur Kapitalrente. Er soll 2027 in einem eigenen Gesetz
   folgen (dts, 4.11.2026; cash-online, 6.11.2026). Die SPD-Fraktionsvize Dagmar Schmidt verteidigt die Verschiebung.
 - Für NIUS spricht: Am 13.10. hieß es noch „ausgereift durchformuliert“. In der Sendung sagt Wolfgang Herles:
-  „Eckpunkte ist nichts anderes als eine Absichtserklärung.“ Pascal Reddig, Vorsitzender der Jungen Gruppe der
+  „Eckpunkte ist nichts anderes als eine Absichtserklärung.“ Ähnlich Pascal Reddig, Vorsitzender der Jungen Gruppe der
   Unionsfraktion: „Die Kapitalrente braucht ein Gesetz, keine Absichtserklärung“ (dts, 4.11.2026).
 - In derselben Sendung sagt Herles später auch: „Er sagt ja nicht, die Kapitalrente wird es nicht geben. Er sagt nur,
   sie wird es jetzt ein Jahr später geben.“
-- Der Halbsatz daneben: „im rentenrechtlichen Teil ausformuliert“. Zu diesem Teil zählt nach dem Bericht der Kommission
-  (S. 74) und nach cash-online (6.11.2026) die Abschaffung der abschlagsfreien Rente nach 45 Jahren. Ob sie im
-  Gesetzentwurf stehen wird, ist in der Koalition strittig (dpa, 5.11.2026).
+- Der Halbsatz daneben: „im rentenrechtlichen Teil ausformuliert“. Zu diesem Teil gehört laut Berichten auch die
+  Abschaffung der abschlagsfreien Rente nach 45 Jahren (cash-online, 6.11.2026: „Dazu gehört die Abschaffung der
+  abschlagsfreien Rente mit 63.“). Der Bericht der Kommission kennt keinen „rentenrechtlichen Teil“, das ist das Wort
+  des Kanzlers; er rechnet die Abschaffung in seinen Finanzabschätzungen dem Reformpaket im Umlageverfahren zu (S. 74).
+  Ob sie im Gesetzentwurf stehen wird, ist in der Koalition strittig (dpa, 5.11.2026).
 
 **Urteil: teilweise.** Abgesagt ist die Kapitalrente nicht. Ihr Gesetzestext kommt später, als Merz im Oktober
 angekündigt hat.
