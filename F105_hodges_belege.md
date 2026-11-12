@@ -20,7 +20,9 @@ er auf Englisch gesagt hat, können wir nicht prüfen.
 
 **Zum Bild am Anfang:** Die Folge beginnt mit dem Schlusssatz „Ich glaube, er ist gekauft worden“ und spielt danach
 den ganzen Satz ungekürzt. In der Sendung zeigt die Regie während des ersten Halbsatzes eine andere Gesprächsteilnehmerin.
-Wir zeigen an dieser Stelle Hodges selbst und die Totale mit Maybrit Illner aus den Sekunden davor. Der Ton ist unverändert.
+Wir zeigen an dieser Stelle Hodges selbst und die Totale mit Maybrit Illner aus den Sekunden davor. Ebenso ersetzen wir
+in drei weiteren Ausschnitten kurze Zwischenschnitte der Regie auf Gesprächsgäste, die den zitierten Satz nicht gesagt
+haben, durch Bilder des Sprechers oder der Runde aus derselben Sendung. Der Ton ist überall unverändert.
 
 ## Die vier Sätze
 
@@ -36,10 +38,12 @@ Wir zeigen an dieser Stelle Hodges selbst und die Totale mit Maybrit Illner aus 
   hin; die Ermittlung konnte aber nicht nachweisen („did not establish“), dass Mitglieder von Trumps Wahlkampfteam
   sich mit der russischen Regierung abgesprochen haben. Auf derselben Seite steht: Ein fehlender Nachweis heißt nicht,
   dass es keine Hinweise gab.
-- US-Senat, Geheimdienstausschuss, Band 5 (2020), Seite 638: Der Ausschuss konnte nicht feststellen, dass Russland
-  belastendes Material über Trump gesammelt oder versucht hat, ihn oder sein Umfeld damit zu erpressen.
-- Durham-Bericht (2023), Seite 8: Polizei und Geheimdienste hatten zu Beginn der FBI-Ermittlung im Jahr 2016 offenbar
-  keine tatsächlichen Beweise für eine Absprache.
+- US-Senat, Geheimdienstausschuss, Band 5 (2020), Seite 638: Zu den Zeugenaussagen über Trumps Reisen nach Russland
+  schreibt der Ausschuss, er habe nicht feststellen können, dass Russland belastendes Material über Trump gesammelt
+  oder versucht hat, ihn oder sein Umfeld damit zu erpressen.
+- Durham-Bericht (2023), Seite 8: Die Strafverfolgung, also vor allem das FBI, und die Geheimdienste hatten zu Beginn
+  der FBI-Ermittlung im Jahr 2016 offenbar keine tatsächlichen Beweise für eine Absprache („neither U.S. law
+  enforcement nor the Intelligence Community appears to have possessed any actual evidence of collusion“).
 - Für Hodges spricht: Der Senatsbericht (Seite vii) nennt die Kontakte von Trumps Wahlkampfchef Paul Manafort eine
   schwere Bedrohung für die Spionageabwehr. Laut Mueller (Band I, Seite 5) verfolgte Trumps Firma bis mindestens Juni
   2016 ein Hochhausprojekt in Moskau.
@@ -126,10 +130,11 @@ Wir zeigen an dieser Stelle Hodges selbst und die Totale mit Maybrit Illner aus 
 - Rückzahlung: Am Freitag, 18.9.2026, sagt der Präsident vor Reportern, soweit er wisse, habe sein Sohn das Geld
   zurückgezahlt („as I understand it, he paid them back“, AP, 6.10.2026; Meduza, 18.9.2026). Kremlew sagt am 6.10.2026: „He did repay the money I spent on the present“, nötig
   fand er das nicht (AP). Belegt ist die Rückzahlung nur durch diese beiden Aussagen.
-- Trump Tower 2016: Mueller-Bericht, Band I, Seite 110: Am 9.6.2016 trafen führende Vertreter des Wahlkampfteams im
+- Trump Tower 2016 (im Film als frühere Russland-Geschichte desselben Sohnes, einen Zusammenhang mit der
+  Hochzeit stellt keine Quelle her): Mueller-Bericht, Band I, Seite 110: Am 9.6.2016 trafen führende Vertreter des Wahlkampfteams im
   Trump Tower eine russische Anwältin und erwarteten belastendes Material über Hillary Clinton von der russischen
   Regierung; vorgeschlagen wurde das Treffen Donald Trump Jr. Seite 186: Für eine Anklage sah der Sonderermittler
-  keine ausreichenden Beweise.
+  keine ausreichenden Beweise, vor allem für den Vorsatz.
 - Was offen bleibt: Das Geld ging an den Sohn. Der Präsident war bei der Hochzeit nicht dabei (AP). Eine Zahlung an
   ihn selbst ist öffentlich nicht belegt. Der ranghöchste Demokrat im Aufsichtsausschuss des Repräsentantenhauses,
   Robert Garcia, hat am 14.9.2026 Unterlagen angefordert (ProPublica, 15.9.2026). Die Demokraten haben bei den
