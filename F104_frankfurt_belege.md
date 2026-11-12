@@ -24,9 +24,10 @@ Abstand. Am 4.11. bekräftigt Dobrindt seine Aussage im Bundestag.
 | Frankfurt, Bilanz des Innenministers vom 1.11. | 54 Festnahmen, 1.225 Platzverweise, 17 beschädigte Geschäfte, 5 davon geplündert | epd, 1.11.2026 |
 | Frankfurt, Einwohner mit Migrationshintergrund | 58 % (2024) | Lamya Kaddor (Grüne) im Bundestag, Plenarprotokoll 21/104, S. 13140 |
 
-Die Zahlen zu den 53 Festgenommenen und die erste Auskunft vom 3.11. liegen uns nur über Apollo News vor, das die
-Antworten des Polizeipräsidiums wiedergibt. Die Zahlen aus dem Landtag sind unabhängig davon berichtet und ergeben
-dasselbe Bild (59 % mit ausländischem Pass).
+Die Aufstellung zu den 53 Festgenommenen geben Apollo News (9.11.2026, Antwort des Polizeipräsidiums auf Anfrage) und
+Osthessen-News (10.11.2026, mit Verweis auf die FAZ) übereinstimmend wieder. Die erste Auskunft vom 3.11. liegt uns
+über Apollo News vor. Die Zahlen aus dem Landtag sind unabhängig davon berichtet und ergeben dasselbe Bild (59 % mit
+ausländischem Pass).
 
 ## Die fünf Sätze
 
@@ -49,10 +50,12 @@ dasselbe Bild (59 % mit ausländischem Pass).
 
 - Wo: Pressekonferenz in Frankfurt, 1.11.2026 (BILD LIVE, ab 04:17). Der Satz bezieht sich auf die Festgenommenen
   („Es ist insgesamt zu 54 Festnahmen gekommen.“). Keine zwei Minuten später: „diese Tätergruppe war überwiegend
-  migrantisch geprägt“.
+  migrantisch geprägt“. Dieser zweite Satz gilt den 1.000 bis 1.500 gewaltbereiten Störern, von denen die Polizei
+  nach seinen Worten ausgeht, nicht den Festgenommenen.
 - Urteil: **trifft zu.** Von 53 Festgenommenen haben 37 einen deutschen Pass. Zugleich haben 31 einen ausländischen.
   15 haben beide und zählen auf beiden Seiten. Bei den 73 Tatverdächtigen aus dem Landtag ist das Bild dasselbe
-  (47 mit deutschem, 43 mit ausländischem Pass).
+  (47 mit deutschem, 43 mit ausländischem Pass). Der zweite Satz passt zu den Pässen, die bekannt sind. Gezählt hat
+  die geschätzten 1.500 Störer niemand, deshalb bekommt er kein eigenes Urteil.
 
 ### 3. Ines Schwerdtner: „… dass der Protest des Tages über komplett friedlich war.“
 
@@ -65,8 +68,8 @@ dasselbe Bild (59 % mit ausländischem Pass).
 
 ### 4. Julian Reichelt (NIUS): „Die Polizei tat nichts, sah einfach zu.“
 
-- Wo: Achtung, Reichelt!, 2.11.2026, Einblendung unter einem Handyvideo (ab 01:46). Reichelt nennt im selben Video
-  selbst eine mögliche Erklärung: Deeskalation.
+- Wo: Achtung, Reichelt!, 2.11.2026, Einblendung unter einem Handyvideo (ab 01:46). Reichelt tippt im selben Video
+  selbst, spöttisch, auf Deeskalation („Ich persönlich tippe auf Deeskalation“).
 - Urteil: **teilweise.** Das Video zeigt Beamte, die in dieser Szene nicht eingreifen. Wo und wann es entstand, können
   wir nicht selbst prüfen, eine Stellungnahme der Polizei zu dieser Szene haben wir nicht gefunden. Für die ganze Nacht
   stimmt der Satz nicht: 54 Festnahmen, 1.225 Platzverweise, 181 verletzte Polizisten. In der Beschreibung des Videos
@@ -84,8 +87,9 @@ dasselbe Bild (59 % mit ausländischem Pass).
 
 ## Die Zahl „drei Viertel“
 
-Die Angabe, drei Viertel der Tatverdächtigen hätten einen ausländischen Pass, stammt aus der ersten Auskunft der
-Frankfurter Polizei vom 3.11.2026. In ihrer Aufstellung vom 9.11.2026 nennt die Polizei für die 53 Festgenommenen
+Die Angabe, drei Viertel der Tatverdächtigen hätten einen ausländischen Pass, ist aus der ersten Auskunft der
+Frankfurter Polizei vom 3.11.2026 gerechnet (die Hälfte mit deutscher Staatsangehörigkeit, davon die Hälfte mit einer
+weiteren). In ihrer Aufstellung vom 9.11.2026 nennt die Polizei für die 53 Festgenommenen
 31 mit ausländischem Pass (58 %). Apollo News schreibt selbst, wie die Abweichung zu erklären sei, sei unklar.
 
 ## Quellen
@@ -93,6 +97,7 @@ Frankfurter Polizei vom 3.11.2026. In ihrer Aufstellung vom 9.11.2026 nennt die 
 - t-online/dpa, 11.11.2026: https://frankfurt.t-online.de/region/frankfurt-am-main/id_101522832/frankfurt-krawalle-minister-verteidigt-aussage-kritik-an-polizei.html
 - hessenschau, 10./11.11.2026: https://www.hessenschau.de/politik/nach-gen-z-krawallen-poseck-verteidigt-aussagen-zu-migrationshintergrund--v2,poseck-innenausschuss-100.html
 - Apollo News, 9.11.2026 (Festgenommene in Frankfurt): https://apollo-news.net/frankfurter-krawallnacht-unter-auslndischen-festgenommenen-dominieren-afghanen-und-syrer/
+- Osthessen-News, 10.11.2026 (Festgenommene in Frankfurt): https://osthessen-news.de/n11802925/halloween-krawalle-neue-details-zur-herkunft-der-festgenommenen.html
 - Apollo News, 6.11.2026 (Festgenommene in Berlin): https://apollo-news.net/ausschreitungen-in-berlin-jeder-vierte-festgenommene-ohne-deutschen-pass-alle-wieder-frei/
 - Apollo News, 4.11.2026 (erste Auskunft, Stand 3.11.): https://apollo-news.net/frankfurter-krawallnacht-drei-viertel-der-tatverdchtigen-haben-auslndische-staatsangehrigkeit/
 - FOCUS, 8.11.2026: https://www.focusplus.de/politik/gezieltes-vorgehen-angereister-gewalttaeter-hinter-krawallen-steckte-19531
