@@ -1,6 +1,6 @@
 # Belege zu Folge 107: Erbschaftsteuer, Klingbeil gegen Merz
 
-Geist im Detail, Stand der Recherche: 11.11.2026. Wir bewerten nicht, wir ordnen ein. Fehler gefunden? Schreib ihn in
+Geist im Detail, Stand der Recherche: 11.11.2026, durchgesehen am 12.11.2026. Wir bewerten nicht, wir ordnen ein. Fehler gefunden? Schreib ihn in
 die Kommentare unter dem Video, am liebsten mit Beleg.
 
 ## Worum es geht
@@ -52,15 +52,17 @@ Wörter sind nicht sicher zu verstehen. Wo das so ist, steht es unten dabei.
   der Koalitionspartner sieht manches in der Steuerpolitik deutlich anders.“ Er spricht unmittelbar davor über seine
   Einkommensteuerreform und nennt in diesem Satz die Reform der Erbschaftsteuer ausdrücklich mit.
 - Die Abstimmung: Am 8.10.2026 lehnt der Bundestag einen Antrag der Grünen ab, die Verschonungsbedarfsprüfung für
-  Erwerbe ab 26 Millionen Euro abzuschaffen. Lars Klingbeil stimmt mit der Koalition für die Ablehnung. Der
+  Erwerbe sehr großer Betriebsvermögen ab 26 Millionen Euro abzuschaffen (Drucksache 21/6647). Sie gilt für Erbschaften
+  und Schenkungen. Am selben Tag wurde ein zweiter Antrag der Grünen abgelehnt (Drucksache 21/4456). Lars Klingbeil stimmt mit der Koalition für die Ablehnung. Der
   Koalitionsvertrag legt fest: „Im Deutschen Bundestag und in allen von ihm beschickten Gremien stimmen die
   Koalitionsfraktionen einheitlich ab.“ und „Wechselnde Mehrheiten sind ausgeschlossen.“
 - Was für „immer mehr Steuern“ spricht: Am selben Tag bringt Klingbeil die Einkommensteuerreform der Regierung in den
   Bundestag ein. Nach seinen Worten entlastet sie kleine und mittlere Einkommen um 10 Milliarden Euro; „Die
   Reichensteuer wird etwas früher greifen. Außerdem führen wir eine Steuer für die Superreichen in unserem Land, für
   die allerhöchsten Einkommen ein, für diejenigen, die mehr als 280 000 Euro im Jahr haben.“ (Plenarprotokoll 21/99).
-  Im Gesetzentwurf (Drucksache 21/8235) steht dafür ein Satz von 47 Prozent ab 280.000 Euro. Die Erbschaftsteuer kommt
-  in dem Entwurf nicht vor.
+  Im Gesetzentwurf der Bundesregierung (Drucksache 21/8235, Tarif in § 32a) beginnt der Satz von 45 Prozent schon bei
+  250.000 Euro, ab 280.000 Euro gilt ein neuer Satz von 47 Prozent. Unter dem Strich entlastet der Entwurf nach
+  Klingbeils Worten. Die Erbschaftsteuer kommt in dem Entwurf nicht vor.
 - Zur Vermögensteuer siehe Satz 3.
 
 ### 2. Kolja Barghoorn: „Eine Billionen Steuereinnahmen, aber für Klingbeil reicht es einfach nicht.“
@@ -83,18 +85,22 @@ Wörter sind nicht sicher zu verstehen. Wo das so ist, steht es unten dabei.
   wirst dir trotzdem keine Eigentumswohnung in Berlin leisten.“
 - Schon im Oktober hatte eine Agenturmeldung Klingbeil die Vermögensteuer zugeschrieben und den Satz wieder gestrichen:
   „er hat sich nur zur Erbschaftsteuer geäußert“ (dpa-AFX, 11.10.2026, berichtigte Fassung).
-- Wer in der SPD eine Vermögensteuer fordert: Generalsekretär Tim Klüssendorf, „ein Prozent jährlich für Vermögen
-  oberhalb von 100 Millionen Euro“ (Neue Osnabrücker Zeitung, wiedergegeben am 20.7.2026 bei brilon-totallokal.de).
-  Für diesen Wortlaut haben wir nur diese eine Wiedergabe.
+- Wer in der SPD über eine Vermögensteuer spricht: Generalsekretär Tim Klüssendorf nennt eine Größenordnung, in
+  bedingter Form: „Wenn wir uns an der international diskutierten Reichensteuer orientieren, geht es um ein Prozent
+  jährlich für Vermögen oberhalb von 100 Millionen Euro.“ (Neue Osnabrücker Zeitung, wiedergegeben am 20.7.2026 bei
+  brilon-totallokal.de; dieselbe Größenordnung nennt heidelberg24.de). Ein Beschluss der Partei ist das nicht.
 
 ### 4. Kolja Barghoorn: „Schon die grüne Frau Dröge hatte ja auch gerade, könnte man sagen, direkt im Plan für Rot-Rot-Grün verankert, dass man bitte auch eine Vermögenssteuer einführt.“
 
 - Wo: Aktien mit Kopf, 8.11.2026, 0:34 bis 0:49.
 - Urteil: **teilweise.** Die Forderung gibt es: Katharina Dröge, Fraktionsvorsitzende der Grünen, will eine
   Vermögensteuer für Superreiche als Teil eines Pakets zur Klimafinanzierung (dpa, 8.11.2026, bei Apollo News). Einen
-  Plan für Rot-Rot-Grün im Bund haben wir nicht gefunden. Dröge hat ein solches Bündnis am 4.10.2026 „eine Option“ für
-  die Zeit nach der nächsten Bundestagswahl genannt (ZDFheute). SPD, Grüne und Linke haben im Bundestag zusammen 269
-  Sitze, für eine Mehrheit braucht es 316. Barghoorn schränkt den Satz selbst ein („könnte man sagen“).
+  Plan für Rot-Rot-Grün im Bund haben wir nicht gefunden. Dröge hat ein solches Bündnis „zumindest eine Option“ für
+  die Zeit nach der nächsten Bundestagswahl genannt (ZDFheute, 4.10.2026). Im selben Bericht sagt sie, es gebe „große
+  gesellschaftliche Mehrheiten“ für „soziale Themen wie die gerechte Besteuerung extrem hoher Vermögen“. Das ist das
+  stärkste Argument für Barghoorns Satz. Ein gemeinsames Programm der drei Parteien ist es nicht. Im heutigen Bundestag
+  haben SPD, Grüne und Linke zusammen 269 Sitze, für eine Mehrheit braucht es 316. Barghoorn schränkt den Satz selbst
+  ein („könnte man sagen“).
 
 ### 5. Lars Klingbeil: Der Koalitionspartner sieht manches in der Steuerpolitik deutlich anders
 
@@ -105,7 +111,8 @@ Wörter sind nicht sicher zu verstehen. Wo das so ist, steht es unten dabei.
   neuere Aussage des Kanzlers zur Erbschaftsteuer haben wir bis zum 11.11.2026 nicht gefunden.
 - Die andere Stimme aus der Union: Stefan Nacke, Vorsitzender der Arbeitnehmergruppe der Unionsfraktion, am
   13.10.2026 im ZDF heute journal: „… es geht ja um Gerechtigkeit und es ist eben so, Leistung muss sich lohnen und
-  nicht Erbe muss sich lohnen.“
+  nicht Erbe muss sich lohnen.“ Bei der Abstimmung am 8.10.2026 steht Nacke auf der Ja-Liste, also für die Ablehnung
+  des Grünen-Antrags (Plenarprotokoll 21/99, Liste der CDU/CSU).
 
 ## Was heute gilt: zwei Rechenfälle
 
@@ -118,15 +125,18 @@ Wörter sind nicht sicher zu verstehen. Wo das so ist, steht es unten dabei.
 - Das Statistische Bundesamt: „Die meisten Vermögensübergänge liegen innerhalb der Freibeträge.“
 - Das Konzept der SPD („FairErben“, Stand 16.10.2026): ein „Lebensfreibetrag von insgesamt einer Million Euro“, „Das
   selbst genutzte Familienheim soll zusätzlich geschützt bleiben.“ Ein Lebensfreibetrag gilt einmal, nicht für jeden
-  Elternteil neu. Es ist ein Positionspapier, kein Gesetzentwurf; Steuersätze nennt es nicht.
+  Elternteil neu. Nach Informationen der ARD sind davon 900.000 Euro für Erbschaften aus der Familie vorgesehen
+  (Nordkurier, nach ARD-Hauptstadtstudio). Es ist ein Positionspapier, kein Gesetzentwurf; Steuersätze nennt es nicht.
 
 ## Stand in Karlsruhe
 
-Das Bundesverfassungsgericht hat am 12. und 13.10.2026 über zwei Verfahren verhandelt. Im ersten (1 BvF 1/23) greift
-die Bayerische Staatsregierung unter anderem die Freibeträge an, „weil der Gesetzgeber Freibeträge und Steuersätze
-nicht an die Preissteigerung der letzten Jahre angepasst habe“. Im zweiten (1 BvR 804/22) geht es um die Begünstigung
+Das Bundesverfassungsgericht hat am 12. und 13.10.2026 über zwei Verfahren verhandelt. Im ersten (1 BvF 1/23) hält
+die Bayerische Staatsregierung die Vorschriften für formell verfassungswidrig, weil dem Bund die
+Gesetzgebungskompetenz fehle, und Freibeträge und Steuersätze auch für materiell verfassungswidrig, „weil der
+Gesetzgeber Freibeträge und Steuersätze nicht an die Preissteigerung der letzten Jahre angepasst habe“. Im zweiten (1 BvR 804/22) geht es um die Begünstigung
 von Betriebsvermögen. Ein Urteil gibt es nicht, einen Verkündungstermin hat das Gericht bis zum 11.11.2026 nicht
-angekündigt. Die SPD-Bundestagsfraktion erwartet die Entscheidung „frühestens Anfang 2027“.
+angekündigt. Die SPD-Bundestagsfraktion erwartet die Entscheidung „frühestens Anfang 2027“; die Steuerberater von
+KPMG schreiben, zwischen Verhandlung und Urteil vergingen in der Regel vier bis fünf Monate.
 
 ## Quellen
 
@@ -151,6 +161,9 @@ angekündigt. Die SPD-Bundestagsfraktion erwartet die Entscheidung „frühesten
 - dpa, 12.10.2026 (beck-aktuell): https://www.beck-aktuell.de/heute-im-recht/rechtspolitik-gesetzgebung/erbschaftsteuer-klingbeil-reformen-standpunkt-2026-10-12
 - WirtschaftsWoche, 20.5.2026: https://www.wiwo.de/politik/deutschland/steuerreform-klingbeil-erwartet-2026-politische-entscheidungen-zur-erbschaftsteuer/100226683.html
 - Klüssendorf, 20.7.2026: https://brilon-totallokal.de/2026/07/20/spd-wird-vermoegens-und-erbschaftssteuer-2026-zum-schluesselthema-machen/
+- heidelberg24, Klüssendorf: https://www.heidelberg24.de/politik-und-wirtschaft/spd-will-superreiche-bei-erbschaften-staerker-zur-kasse-bitten-vermoegensteuer-mittelstand-zr-94398604.html
+- Nordkurier (nach ARD), SPD-Konzept: https://www.nordkurier.de/politik/spd-legt-konzept-zu-erbschaftsteuer-vor-kritik-aus-cdu-4262650
+- KPMG zu den Verhandlungsterminen: https://kpmg.com/de/de/themen/2026/07/bverfg-mdl-verhandlung-termin-erbst.html
 - dpa bei Apollo News, 8.11.2026: https://apollo-news.net/finanzierung-der-klimakrisenfolgen-gruenen-fraktionschefin-plaediert-fuer-vermoegensteuer/
 - ZDFheute, 4.10.2026: https://www.zdfheute.de/politik/deutschland/gruene-spd-linke-droege-linksbuendnis-bund-100.html
 - SPD-Bundestagsfraktion, Stand 16.10.2026: https://www.spdfraktion.de/themen/fair-erben-chancen-gerechter-verteilen
