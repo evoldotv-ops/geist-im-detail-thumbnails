@@ -1,4 +1,4 @@
-# Belege zu Folge 105: Hodges und van Aken bei Illner
+# Belege zu Folge 105: Hodges bei Illner (mit Jan van Aken)
 
 Geist im Detail prüft Sätze aus Talkshows gegen die Quellen. Diese Seite nennt zu jedem geprüften Satz der Folge den
 Wortlaut, das Urteil und die Fundstelle, in der Reihenfolge des Films. Stand der Recherche: 11. November 2026.
