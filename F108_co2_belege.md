@@ -19,7 +19,7 @@ Quellen der Ausschnitte:
 
 **Zum Bild:** Im Ausschnitt mit dem Satz „Es wird zunächst einmal für alle teurer“ zeigt die ARD-Regie Caren Miosga,
 Merz spricht aus dem Off. Wir zeigen dort ein Bild von Merz aus derselben Antwort, 17 Sekunden später. Der Ton ist
-unverändert. Standbilder von Merz stammen aus dieser Sendung vom 13.4.2025 und tragen im Film den Hinweis Archivbild mit Sender und Datum.
+unverändert. Standbilder von Merz stammen aus dieser Sendung vom 13.4.2025 und tragen im Film den Hinweis Archivbild mit Sender und Datum. Die Datumszeile, die NIUS hochkant am rechten Bildrand einblendet, zeigen wir gedreht und vergrößert.
 
 ## Die drei Sätze
 
@@ -59,7 +59,7 @@ eigentlich Friedrich Merz? Den deutschen Interessen sicherlich nicht.“
   Liter bei Heizöl“. Da der Höchstpreis 2027 ebenfalls 65 Euro beträgt, kann der CO2-Anteil zum Jahreswechsel nicht steigen.
   https://www.adac.de/rund-ums-fahrzeug/auto-kaufen-verkaufen/kfz-steuer/co2-steuer/ und
   https://www.adac.de/rund-ums-haus/energie/spartipps/co2-preis-oel-gas/
-- Offen am 12.11.2026: der Bundesrat (Drucksache 624/26, Tagesordnung der Sitzung am 20.11.2026).
+- **Stand 12.11.2026:** Der Bundesrat berät das Gesetz am 20.11.2026 (Drucksache 624/26, Tagesordnung der Sitzung). Im Film nennen wir deshalb nur den Beschluss des Bundestags.
 - Für Weidel spricht: Ab 2028 gilt der europäische ETS 2 mit einem Marktpreis, und Merz lehnt weitere Änderungen ab. Wie
   hoch der Preis dann liegt, ist offen.
 
@@ -79,14 +79,26 @@ einmal für alle teurer, teurer, teurer.“
 - Preisbremse für den ETS 2: „… the agreement enables stronger intervention for price stability by doubling the number of
   allowances to be injected if the ETS2 price rises above a certain level.“ EU-Kommission, 11.6.2026,
   https://climate.ec.europa.eu/news-other-reads/news/commission-welcomes-agreement-key-safeguards-new-emissions-trading-system-buildings-and-road-2026-06-11_en
-- Der eingespielte Merz-Satz stammt aus der Sendung Caren Miosga vom 13.4.2025, vor Merz' Wahl zum Kanzler. Der Ton bei
-  NIUS stimmt mit dem Ton der Sendung überein (Vergleich der Tonspuren). Im Original sagt Merz in diesem Satz einmal
-  „teurer“: „Es wird zunächst einmal für alle teurer.“ NIUS lässt das Wort dreimal nachhallen.
-- Für NIUS spricht: In derselben Antwort sagt Merz „CO2 wird teurer. Wenn uns der Umweltschutz, der Klimaschutz etwas wert
-  ist, dann wird es teurer. Es wird 2027 abgelöst durch ein europäisches einheitliches System. … Und dann wird es
-  sukzessive teurer, weil wir einfach dafür sorgen wollen.“ Gemeint sind laut Merz der Verkehr und das Heizen. Ein
-  steigender CO2-Preis ist also gewollt. „Alles teurer“ steht aber nicht im Brief, und für 2027 bleibt der Preis gleich.
-  Der europäische Start ist inzwischen 2028.
+- Der eingespielte Merz-Satz stammt aus der Sendung Caren Miosga vom 13.4.2025, vor Merz’ Wahl zum Kanzler (Sendung
+  „Geht so Ihr Politikwechsel, Herr Merz?“ in der ARD-Mediathek; Berliner Zeitung, 15.4.2025: Merz habe das „am
+  Sonntagabend bei Caren Miosga“ gesagt,
+  https://www.berliner-zeitung.de/politik-gesellschaft/merz-sagt-alles-werde-teurer-damit-muessen-verbraucher-kuenftig-rechnen-li.2316499).
+  Bild und Ton bei NIUS stimmen mit dieser Sendung überein. NIUS blendet dazu am rechten Bildrand „ARD @Caren Miosga,
+  05.10.2025“ ein. Im Original sagt Merz in diesem Satz einmal „teurer“: „Es wird zunächst einmal für alle teurer.“ Bei
+  NIUS ist das Wort dreimal hintereinander zu hören.
+- Für NIUS spricht: Dass es durch den CO2-Preis teurer wird, will Merz. In derselben Antwort sagt er 2025: „CO2 wird
+  teurer. Wenn uns der Umweltschutz, der Klimaschutz etwas wert ist, dann wird es teurer. Es wird 2027 abgelöst durch ein
+  europäisches einheitliches System. … Und dann wird es sukzessive teurer, weil wir einfach dafür sorgen wollen.“ Gemeint
+  sind laut Merz der Verkehr und das Heizen, „damit die Menschen einen Anreiz haben, sparsam damit umzugehen“. Kurz davor
+  sagt er: „Aber wir wollen das Geld dann auch an die Bürgerinnen und Bürger zurückgeben.“
+- Als Kanzler sagt Merz am 12.2.2026 über den Emissionshandel und über Länder, in denen „Energieerzeugung zum Teil noch
+  mit sehr hohen Emissionen verbunden ist“: „Dann wird es natürlich teurer. Das ist aber auch gewünscht. Das war das
+  Mittel der Wahl.“ (Mitschrift der Bundesregierung, Pressekonferenz nach dem informellen Europäischen Rat, https://www.bundesregierung.de/breg-de/aktuelles/pressekonferenz-kanzler-nach-informellem-er-2407104)
+  Dass der eingespielte Satz von 2025 stammt, ist deshalb kein Einwand gegen NIUS.
+- Gegen NIUS spricht: „Alles teurer“ steht nicht im Brief. Merz nennt dort als Anliegen die „Investitionssicherheit beim
+  Emissionshandel“, verweist auf die Strompreiskompensation und auf „preisstabilisierende Massnahmen …, welche zu
+  moderaten CO2-Preisen im ETS-2 führen werden“. Für 2027 bleibt der deutsche CO2-Preis im selben Korridor wie 2026. Der
+  europäische Start für Heizen und Tanken ist inzwischen 2028.
 
 ### 3. Friedrich Merz: „Der ETS ist ein gut funktionierendes, marktwirtschaftliches System …“
 
@@ -117,12 +129,33 @@ lines,” und danach: “If this is not achievable and if this is not the right 
 it or at least to postpone it as we did with EU ETS2.”
 https://eurometal.net/european-carbon-prices-slide-as-germanys-merz-says-eu-ets-may-need-revamping/
 
-Im Redetext, den die Bundesregierung veröffentlicht hat, fehlt diese Stelle:
+Im Redetext, den die Bundesregierung veröffentlicht hat, steht diese Stelle nicht:
 https://www.bundesregierung.de/breg-en/news/speech-at-the-european-industry-summit-2406966
-Einen Mitschnitt haben wir nicht gefunden. Die Stelle beruht auf den beiden Agenturberichten.
+Einen Mitschnitt haben wir nicht gefunden. Laut dem Warschauer Institut OSW wurde Merz in Antwerpen auch vom BASF-Chef
+Markus Kamieth befragt. Ob der Satz in diesem Gespräch fiel, konnten wir nicht prüfen.
+Der Preis der europäischen Emissionszertifikate fiel danach laut Bloomberg so stark wie seit 2022 nicht mehr.
 
-Schon am nächsten Tag, beim informellen Treffen der Staats- und Regierungschefs in Alden Biesen (12.2.2026), verteidigte
-Merz das System laut dem Warschauer Institut OSW: “This shows that we have the right instrument. However, it must be
-constantly adjusted.”
+## Merz in Alden Biesen, 12. Februar 2026
+
+Pressekonferenz nach dem informellen Europäischen Rat, Mitschrift der Bundesregierung:
+https://www.bundesregierung.de/breg-de/aktuelles/pressekonferenz-kanzler-nach-informellem-er-2407104
+
+In seiner Erklärung sagt Merz über den Emissionshandel: „Das zeigt, dass wir das richtige Instrument haben. Aber es muss
+auch immer wieder nachjustiert werden.“
+
+Dann die Frage: „Gestern in Antwerpen haben Sie gesagt, dass Sie sich eine Überarbeitung oder Verschiebung vorstellen
+könnten.“ Merz antwortet: „Meine Meinung hat sich nicht geändert. Das ETS ist ein gutes Instrument. … Die Kommission
+selbst hat für April 2026 die Überarbeitung des Systems in Aussicht gestellt bzw. vorgeschlagen. Das ist ein ganz
+normaler Vorgang. Ich habe gestern darauf hingewiesen, dass dieses System nicht in erster Linie dazu gedacht ist, große
+Einnahmen zu erzeugen, sondern dass dieses System dazu gedacht ist, mit Bepreisung von CO2-Emissionen Innovationen zu
+befördern. Dieser Zweck muss natürlich regelmäßig überprüft werden: Haben wir den Zweck erreicht? Können wir es besser
+machen? Genau das habe ich gestern gesagt.“
+
+Auf das Verschieben geht Merz in dieser Pressekonferenz nicht ein, das Wort kommt nur in der Frage vor. Nachjustieren
+will er das System weiter. Im Brief vom 6.11.2026 verlangt er keine Verschiebung. Dort heißt es: „Beim ETS-1 sollte die
+aktuelle Reform genutzt werden, um das System zukunftsfest zu machen und die Wettbewerbsfähigkeit der Industrie zu
+steigern.“ und „Weitere Änderungen am ETS-2 lehne ich ab.“
+
+Einordnungen des Auftritts: OSW, 20.2.2026 („clearly shifted his tone and began to defend the ETS“),
 https://www.osw.waw.pl/en/publikacje/analyses/2026-02-20/germany-and-ets-yes-to-softening-no-to-dismantling
-EU Perspectives beschreibt das als Rücknahme („right tool“, „readjusted again and again“): https://euperspectives.eu/?p=14071
+und EU Perspectives, https://euperspectives.eu/?p=14071
