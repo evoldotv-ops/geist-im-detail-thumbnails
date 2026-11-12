@@ -7,7 +7,8 @@ Kommentare unter dem Video, am liebsten mit Beleg.
 
 Bei Markus Lanz (ZDF, 10.11.2026) spricht Jochen Kopelke, Bundesvorsitzender der Gewerkschaft der Polizei, über die Krawalle nach
 den Schülerprotesten an Halloween. Lanz fragt (Sendung 44:06): „Warum wirken wir in dem Zusammenhang so zahnlos? Warum wirken wir
-so hilflos, selbst wenn es um die Frage geht, wer sind diese Leute eigentlich?“ Kopelke antwortet unter anderem, es brauche kein
+so hilflos, selbst wenn es um die Frage geht, wer sind diese Leute eigentlich?“ Später fragt er nach (46:10): „Das heißt, was
+müsste denn passieren, Herr Kopelke, aus Sicht der Polizei, um das endgültig zu stoppen?“ Kopelke antwortet unter anderem, es brauche kein
 neues Gesetz, es gebe „sogar ausländerrechtliche Maßnahmen“, und: „Und merkwürdigerweise gibt es das in Berlin gar nicht, während
 es teilweise in Heilbronn und anderswo nach Silvester, zwei Tage nach Tat, fand die Ausweisung, die Abschiebung statt.“ (47:16)
 
@@ -17,8 +18,8 @@ Original: https://www.zdf.de/play/talk/markus-lanz-114/markus-lanz-vom-10-novemb
 
 - **Ausweisung:** Die Ausländerbehörde entzieht einem Ausländer das Aufenthaltsrecht (§ 53 Absatz 1 Aufenthaltsgesetz).
 - **Abschiebung:** Der Staat setzt die Ausreisepflicht mit Zwang durch.
-- Wer ausgewiesen, zurückgeschoben oder abgeschoben worden ist, bekommt ein Einreise- und Aufenthaltsverbot (§ 11 Absatz 1
-  Aufenthaltsgesetz).
+- Gegen einen Ausländer, der ausgewiesen, zurückgeschoben oder abgeschoben worden ist, „ist ein Einreise- und Aufenthaltsverbot zu
+  erlassen“ (§ 11 Absatz 1 Aufenthaltsgesetz).
 
 ## Die Zahlen
 
@@ -27,6 +28,7 @@ Original: https://www.zdf.de/play/talk/markus-lanz-114/markus-lanz-vom-10-novemb
 | Ausweisungen Berlin 2024 / 2025 | 381 / 639 | Bundestag, Drucksache 21/4261 (Antwort der Bundesregierung, 19.02.2026), Frage 4, Ausländerzentralregister, Stand 31.12.2025 |
 | Ausweisungen Baden-Württemberg 2024 / 2025 | 2.054 / 1.421 | ebd. |
 | Ausweisungen alle Länder 2024 / 2025 | 9.277 / 8.232 | ebd. |
+| Ausweisungen Berlin 2025, häufigste Staatsangehörigkeiten | Moldau 75, Georgien 62, Vietnam 48 | Drucksache 21/4261, S. 8 |
 | Abschiebungen 2025, Berlin / Baden-Württemberg / gesamt | 1.673 / 3.368 / 22.787 | Bundestag, Drucksache 21/4103, Fragen 1 und 8 |
 | Einwohner 31.12.2025, Berlin / Baden-Württemberg / Deutschland | 3.700.577 / 11.238.761 / 83.467.117 | Statistisches Bundesamt, Fortschreibung auf Grundlage des Zensus 2022 |
 | 2025 Ausgewiesene, Ende 2025 aufhältig / ausgereist / verstorben | 2.932 / 5.296 / 4 | Drucksache 21/4261, Fragen 10 und 11 |
@@ -46,13 +48,16 @@ waren: 5.296 von 8.232, 64 Prozent.
 ### 1. „Und merkwürdigerweise gibt es das in Berlin gar nicht“
 - Bezug: Kopelke meint die schnellen ausländerrechtlichen Maßnahmen, direkt davor: „Da gehen wir mal ganz schnell an den
   Aufenthaltsstatus“.
-- Urteil: **trifft nicht zu.** Berlin weist aus und schiebt ab, 2025 je Einwohner häufiger als Baden-Württemberg.
+- Urteil: **teilweise.** Wörtlich stimmt „gar nicht“ nicht: Berlin weist aus und schiebt ab, 2025 je Einwohner häufiger als
+  Baden-Württemberg. Kopelke meint aber die schnelle Ausweisung nach Krawallen, und die zählt niemand (siehe unten). An der Spitze
+  der Berliner Ausweisungen 2025 stehen Menschen aus Moldau, Georgien und Vietnam (Drucksache 21/4261, S. 8).
 - Was dagegen gehalten wird: 2024 lag Berlin bei den Ausweisungen je Einwohner klar hinter Baden-Württemberg. Wie viele
   Ausweisungen schnell nach Krawallen kamen, lässt sich nicht nachzählen: Berlin erfasst die Gründe nicht (Abgeordnetenhaus Berlin,
   Drucksache 19/22543, 26.05.2025). Nach den Halloween-Ausschreitungen in Berlin wurden laut Apollo News (06.11.2026, mit Zahlen der
-  Polizei) alle 125 Festgenommenen wieder entlassen, Haftbefehle wurden nicht erlassen (einzige Quelle für diese Angabe). Nach der
-  gewaltsamen Besetzung an der Freien Universität wollte das Landesamt für Einwanderung im März 2025 vier Beteiligte aus dem Land
-  haben; das Verwaltungsgericht Berlin hat das in mindestens zwei Fällen im Eilverfahren vorerst gestoppt (Legal Tribune Online,
+  Polizei) alle 125 Festgenommenen wieder entlassen, Haftbefehle wurden nicht erlassen (einzige Quelle für diese Angabe). 91 der 125 hatten die deutsche Staatsangehörigkeit, Doppelstaatler eingeschlossen, 34 eine
+  ausländische oder ungeklärte; ausweisbar wären also höchstens 34 (ebd.). Nach der gewaltsamen Besetzung an der Freien Universität
+  im Oktober 2024 wollte das Landesamt für Einwanderung vier Beteiligte aus dem Land haben, drei davon Bürger anderer EU-Staaten,
+  eine Person aus den USA; die Bescheide kamen Anfang März 2025, rund fünf Monate später; das Verwaltungsgericht Berlin hat das in mindestens zwei Fällen im Eilverfahren vorerst gestoppt (Legal Tribune Online,
   07.05.2025).
 
 ### 2. „Man braucht noch nicht mal eine Gesetzesänderung, um dem Herr zu werden.“ (46:51)
@@ -73,10 +78,11 @@ waren: 5.296 von 8.232, 64 Prozent.
   sagt er nicht.
 
 ## Zum Kommentar „Was nützen Abschiebungen …“
-Ein Zuschauer schreibt unter einem Ausschnitt der Sendung (222 Daumen hoch, 12.11.2026): „Was nützen Abschiebungen wenn diese Leute
+Ein Zuschauer schreibt unter einem Ausschnitt der Sendung (YouTube, Kanal Demokratisch Denken, Video vom 11.11.2026; 222 Daumen
+hoch, Stand 12.11.2026): „Was nützen Abschiebungen wenn diese Leute
 14 Tage später mit einer neuen Identität durch die offenen Grenzen wieder zurück kommen können“. Wie oft das geschieht, lässt sich
 nicht nachzählen. Belegt ist: Ausgewiesen heißt nicht ausgereist, mehr als ein Drittel der 2025 Ausgewiesenen war Ende 2025 noch im
-Land, und jede Ausweisung zieht ein Einreiseverbot nach sich.
+Land, und gegen jeden Ausgewiesenen ist ein Einreise- und Aufenthaltsverbot zu erlassen (§ 11 Aufenthaltsgesetz).
 
 ## Quellen
 - Bundestag, Drucksache 21/4261: https://dserver.bundestag.de/btd/21/042/2104261.pdf und hib 152/2026: https://www.bundestag.de/presse/hib/kurzmeldungen-1151154
